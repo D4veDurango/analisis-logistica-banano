@@ -1,0 +1,1501 @@
+id_viaje,fecha_envio,municipio_origen,finca_origen,empresa_transporte,turno,horas_transito,cajas_enviadas,cajas_aprobadas,cajas_rechazadas,motivo_rechazo_principal
+V-10000,2025-02-12,Apartadó,La Bonita Apartadó,Rutas del Darién,Mañana (4am-12pm),2.7,976,958,18,Cicatriz/Mancha
+V-10001,2025-02-12,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),4.8,901,845,56,Calibre No Conforme
+V-10002,2025-05-17,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.6,926,911,15,Daño Mecánico
+V-10003,2025-01-06,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.4,987,938,49,Daño Mecánico
+V-10004,2025-02-13,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Mañana (4am-12pm),3.1,1046,1023,23,Madurez Prematura
+V-10005,2025-04-23,Apartadó,La Esperanza Apartadó,Logística Bananera,Mañana (4am-12pm),1.3,1099,1080,19,Cicatriz/Mancha
+V-10006,2025-01-30,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.4,966,904,62,Madurez Prematura
+V-10007,2025-03-30,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),2.9,988,973,15,Madurez Prematura
+V-10008,2025-06-05,Turbo,El Tesoro Turbo,Rutas del Darién,Mañana (4am-12pm),5.5,805,735,70,Calibre No Conforme
+V-10009,2025-05-07,Turbo,San José Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.0,1018,930,88,Calibre No Conforme
+V-10010,2025-06-07,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.7,846,802,44,Cicatriz/Mancha
+V-10011,2025-05-11,Turbo,El Tesoro Turbo,TransUrabá,Tarde (12pm-8pm),5.3,876,779,97,Madurez Prematura
+V-10012,2025-03-15,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),2.1,1088,1077,11,Madurez Prematura
+V-10013,2025-06-14,Carepa,El Tesoro Carepa,TransUrabá,Mañana (4am-12pm),1.2,994,979,15,Calibre No Conforme
+V-10014,2025-05-02,Carepa,Villa Verde Carepa,Logística Bananera,Mañana (4am-12pm),1.3,923,912,11,Daño Mecánico
+V-10015,2025-03-13,Apartadó,El Bananal Apartadó,Logística Bananera,Noche (8pm-4am),2.6,1013,991,22,Madurez Prematura
+V-10016,2025-04-23,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.1,1034,981,53,Cicatriz/Mancha
+V-10017,2025-03-17,Turbo,La Bonita Turbo,Logística Bananera,Noche (8pm-4am),5.6,975,902,73,Daño Mecánico
+V-10018,2025-05-20,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),3.8,824,799,25,Madurez Prematura
+V-10019,2025-06-25,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.1,1058,1001,57,Madurez Prematura
+V-10020,2025-06-18,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),1.5,849,832,17,Daño Mecánico
+V-10021,2025-06-09,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),5.8,859,780,79,Madurez Prematura
+V-10022,2025-03-06,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.0,837,782,55,Calibre No Conforme
+V-10023,2025-03-10,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.9,1023,942,81,Madurez Prematura
+V-10024,2025-01-26,Apartadó,El Tesoro Apartadó,Logística Bananera,Noche (8pm-4am),1.0,837,809,28,Cicatriz/Mancha
+V-10025,2025-06-19,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),2.9,824,807,17,Madurez Prematura
+V-10026,2025-05-22,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.1,1077,968,109,Madurez Prematura
+V-10027,2025-04-21,Carepa,San José Carepa,TransUrabá,Tarde (12pm-8pm),1.2,843,807,36,Calibre No Conforme
+V-10028,2025-03-15,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),1.7,954,934,20,Cicatriz/Mancha
+V-10029,2025-05-12,Carepa,El Bananal Carepa,Logística Bananera,Tarde (12pm-8pm),2.5,1024,968,56,Daño Mecánico
+V-10030,2025-05-18,Chigorodó,El Bananal Chigorodó,TransUrabá,Mañana (4am-12pm),4.7,957,887,70,Cicatriz/Mancha
+V-10031,2025-02-20,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.7,1083,966,117,Madurez Prematura
+V-10032,2025-02-16,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.5,979,965,14,Cicatriz/Mancha
+V-10033,2025-06-25,Turbo,El Bananal Turbo,TransUrabá,Mañana (4am-12pm),4.7,806,752,54,Calibre No Conforme
+V-10034,2025-01-01,Carepa,La Esperanza Carepa,TransUrabá,Mañana (4am-12pm),2.8,1050,1023,27,Cicatriz/Mancha
+V-10035,2025-04-24,Turbo,El Tesoro Turbo,Rutas del Darién,Mañana (4am-12pm),5.8,931,864,67,Calibre No Conforme
+V-10036,2025-01-21,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.4,1031,939,92,Calibre No Conforme
+V-10037,2025-02-28,Apartadó,La Esperanza Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.5,1000,944,56,Calibre No Conforme
+V-10038,2025-04-03,Carepa,El Tesoro Carepa,TransUrabá,Tarde (12pm-8pm),1.1,865,821,44,Madurez Prematura
+V-10039,2025-03-18,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),5.9,990,910,80,Daño Mecánico
+V-10040,2025-05-11,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),2.9,1010,972,38,Cicatriz/Mancha
+V-10041,2025-01-16,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),4.1,843,788,55,Cicatriz/Mancha
+V-10042,2025-06-25,Carepa,La Bonita Carepa,Logística Bananera,Noche (8pm-4am),1.5,940,904,36,Madurez Prematura
+V-10043,2025-06-18,Apartadó,Villa Verde Apartadó,Logística Bananera,Mañana (4am-12pm),2.1,860,833,27,Cicatriz/Mancha
+V-10044,2025-03-22,Apartado,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.7,858,848,10,Madurez Prematura
+V-10045,2025-04-19,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),3.9,987,966,21,Madurez Prematura
+V-10046,2025-01-19,Apartadó,San José Apartadó,Logística Bananera,Mañana (4am-12pm),1.4,860,832,28,Madurez Prematura
+V-10047,2025-04-19,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),3.5,813,800,13,Cicatriz/Mancha
+V-10048,2025-06-01,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.1,939,921,18,Madurez Prematura
+V-10049,2025-05-09,Carepa,Villa Verde Carepa,Rutas del Darién,Noche (8pm-4am),2.4,971,949,22,Madurez Prematura
+V-10050,2025-04-20,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.6,908,891,17,Calibre No Conforme
+V-10051,2025-02-04,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),,1021,972,49,Calibre No Conforme
+V-10052,2025-06-26,Apartado,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),2.1,847,818,29,Daño Mecánico
+V-10053,2025-02-12,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.0,969,949,20,Calibre No Conforme
+V-10054,2025-04-08,Carepa,La Esperanza Carepa,TransUrabá,Tarde (12pm-8pm),2.7,905,843,62,Daño Mecánico
+V-10055,2025-03-29,Turbo,El Tesoro Turbo,Rutas del Darién,Mañana (4am-12pm),5.2,953,896,57,Madurez Prematura
+V-10056,2025-06-27,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.6,1090,1079,11,Calibre No Conforme
+V-10057,2025-02-23,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),3.9,989,958,31,Madurez Prematura
+V-10058,2025-01-09,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.8,1055,994,61,Cicatriz/Mancha
+V-10059,2025-01-02,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),4.2,946,886,60,Cicatriz/Mancha
+V-10060,2025-01-06,Carepa,La Esperanza Carepa,TransUrabá,Tarde (12pm-8pm),2.4,1007,956,51,Madurez Prematura
+V-10061,2025-02-25,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.8,911,902,9,Daño Mecánico
+V-10062,2025-05-28,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),6.3,981,885,96,Madurez Prematura
+V-10063,2025-03-12,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.1,901,877,24,Calibre No Conforme
+V-10064,2025-04-11,Carepa,Villa Verde Carepa,Logística Bananera,Tarde (12pm-8pm),2.5,959,917,42,Calibre No Conforme
+V-10065,2025-02-26,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),2.6,1026,1008,18,Madurez Prematura
+V-10066,2025-06-27,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.9,848,795,53,Cicatriz/Mancha
+V-10067,2025-03-30,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.6,810,779,31,Calibre No Conforme
+V-10068,2025-06-17,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,855,834,21,Madurez Prematura
+V-10069,2025-05-05,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.4,936,895,41,Madurez Prematura
+V-10070,2025-02-03,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),,914,845,69,Calibre No Conforme
+V-10071,2025-02-24,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),2.1,898,865,33,Daño Mecánico
+V-10072,2025-02-03,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),2.4,975,927,48,Cicatriz/Mancha
+V-10073,2025-04-19,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.2,813,795,18,Calibre No Conforme
+V-10074,2025-05-19,Carepa,El Tesoro Carepa,Logística Bananera,Mañana (4am-12pm),2.0,879,853,26,Madurez Prematura
+V-10075,2025-06-02,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.8,870,860,10,Cicatriz/Mancha
+V-10076,2025-05-17,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),,897,873,24,Daño Mecánico
+V-10077,2025-05-27,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.6,855,796,59,Calibre No Conforme
+V-10078,2025-03-14,Carepa,El Tesoro Carepa,TransUrabá,Mañana (4am-12pm),2.6,834,805,29,Calibre No Conforme
+V-10079,2025-02-18,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.1,967,937,30,Madurez Prematura
+V-10080,2025-02-13,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),3.7,861,850,11,Calibre No Conforme
+V-10081,2025-05-22,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),3.7,923,903,20,Madurez Prematura
+V-10082,2025-02-19,Apartadó,El Bananal Apartadó,Logística Bananera,Mañana (4am-12pm),3.0,983,952,31,Cicatriz/Mancha
+V-10083,2025-06-19,Carepa,San José Carepa,Rutas del Darién,Mañana (4am-12pm),1.7,984,969,15,Cicatriz/Mancha
+V-10084,2025-04-30,Turbo,El Tesoro Turbo,TransUrabá,Mañana (4am-12pm),4.6,856,801,55,Daño Mecánico
+V-10085,2025-01-17,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),4.5,1065,949,116,Madurez Prematura
+V-10086,2025-04-22,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.5,926,884,42,Daño Mecánico
+V-10087,2025-01-15,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.3,933,883,50,Cicatriz/Mancha
+V-10088,2025-01-17,Carepa,El Bananal Carepa,Logística Bananera,Noche (8pm-4am),1.8,827,813,14,Cicatriz/Mancha
+V-10089,2025-06-16,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.1,1082,964,118,Madurez Prematura
+V-10090,2025-01-13,Chigorodo,El Bananal Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.1,822,749,73,Cicatriz/Mancha
+V-10091,2025-04-17,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),4.3,991,874,117,Madurez Prematura
+V-10092,2025-04-17,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),1.0,861,851,10,Calibre No Conforme
+V-10093,2025-04-26,Apartadó,La Esperanza Apartadó,Logística Bananera,Mañana (4am-12pm),2.7,1036,1004,32,Madurez Prematura
+V-10094,2025-05-15,Chigorodó,San José Chigorodó,Logística Bananera,Tarde (12pm-8pm),2.6,924,883,41,Cicatriz/Mancha
+V-10095,2025-05-09,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Mañana (4am-12pm),3.9,832,817,15,Madurez Prematura
+V-10096,2025-04-17,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),1.0,951,940,11,Daño Mecánico
+V-10097,2025-02-26,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),1.9,888,847,41,Madurez Prematura
+V-10098,2025-04-05,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.7,1069,950,119,Madurez Prematura
+V-10099,2025-02-05,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.3,883,851,32,Cicatriz/Mancha
+V-10100,2025-04-07,Carepa,San José Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.5,1083,1061,22,Daño Mecánico
+V-10101,2025-06-03,Apartadó,Villa Verde Apartadó,Logística Bananera,Tarde (12pm-8pm),1.8,992,952,40,Calibre No Conforme
+V-10102,2025-02-17,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),2.3,811,803,8,Calibre No Conforme
+V-10103,2025-05-26,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.8,927,912,15,Cicatriz/Mancha
+V-10104,2025-04-28,Carepa,Villa Verde Carepa,Logística Bananera,Tarde (12pm-8pm),2.3,905,867,38,Daño Mecánico
+V-10105,2025-04-20,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),1.6,831,800,31,Madurez Prematura
+V-10106,2025-02-03,Carepa,El Bananal Carepa,TransUrabá,Noche (8pm-4am),2.3,885,870,15,Calibre No Conforme
+V-10107,2025-05-18,Carepa,Villa Verde Carepa,Rutas del Darién,Mañana (4am-12pm),1.5,895,883,12,Madurez Prematura
+V-10108,2025-03-29,Carepa,El Bananal Carepa,Rutas del Darién,Mañana (4am-12pm),1.2,815,803,12,Cicatriz/Mancha
+V-10109,2025-02-19,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),4.0,1048,1037,11,Calibre No Conforme
+V-10110,2025-06-13,Turbo,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),5.0,812,749,63,Cicatriz/Mancha
+V-10111,2025-04-19,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),1.0,938,909,29,Calibre No Conforme
+V-10112,2025-05-21,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),1.8,1073,1021,52,Madurez Prematura
+V-10113,2025-02-11,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),4.9,850,775,75,Cicatriz/Mancha
+V-10114,2025-04-26,Chigorodó,La Bonita Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.8,907,854,53,Cicatriz/Mancha
+V-10115,2025-05-05,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.7,840,774,66,Daño Mecánico
+V-10116,2025-02-15,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),5.8,966,858,108,Madurez Prematura
+V-10117,2025-03-14,Carepa,Villa Verde Carepa,Rutas del Darién,Noche (8pm-4am),1.4,892,882,10,Madurez Prematura
+V-10118,2025-03-11,Chigorodó,Villa Verde Chigorodó,TransUrabá,Mañana (4am-12pm),4.3,974,914,60,Calibre No Conforme
+V-10119,2025-06-30,Carepa,La Bonita Carepa,Rutas del Darién,Mañana (4am-12pm),1.6,1060,1041,19,Cicatriz/Mancha
+V-10120,2025-04-14,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),4.9,893,821,72,Madurez Prematura
+V-10121,2025-05-05,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),1.9,1066,1050,16,Cicatriz/Mancha
+V-10122,2025-05-08,Chigorodó,San José Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.4,1074,985,89,Cicatriz/Mancha
+V-10123,2025-03-19,Apartadó,La Bonita Apartadó,TransUrabá,Tarde (12pm-8pm),1.6,940,897,43,Calibre No Conforme
+V-10124,2025-02-15,Carepa,San José Carepa,Logística Bananera,Mañana (4am-12pm),2.2,857,831,26,Madurez Prematura
+V-10125,2025-04-05,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),3.0,1090,1065,25,Calibre No Conforme
+V-10126,2025-05-15,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),2.8,1065,1036,29,Madurez Prematura
+V-10127,2025-05-26,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Mañana (4am-12pm),4.8,913,832,81,Calibre No Conforme
+V-10128,2025-03-22,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),4.4,960,886,74,Cicatriz/Mancha
+V-10129,2025-06-27,Apartadó,San José Apartadó,TransUrabá,Tarde (12pm-8pm),2.5,1087,1020,67,Daño Mecánico
+V-10130,2025-02-18,Apartadó,San José Apartadó,Rutas del Darién,Noche (8pm-4am),1.7,832,812,20,Cicatriz/Mancha
+V-10131,2025-06-02,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.2,1083,1027,56,Madurez Prematura
+V-10132,2025-05-29,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),3.8,1006,972,34,Calibre No Conforme
+V-10133,2025-04-21,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.4,989,922,67,Daño Mecánico
+V-10134,2025-06-21,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),2.8,884,853,31,Calibre No Conforme
+V-10135,2025-01-17,Carepa,San José Carepa,TransUrabá,Mañana (4am-12pm),1.8,867,843,24,Cicatriz/Mancha
+V-10136,2025-03-02,Carepa,La Bonita Carepa,Rutas del Darién,Tarde (12pm-8pm),1.4,880,819,61,Madurez Prematura
+V-10137,2025-06-27,Chigorodó,La Esperanza Chigorodó,TransUrabá,Noche (8pm-4am),2.9,935,922,13,Daño Mecánico
+V-10138,2025-05-25,Apartadó,La Bonita Apartadó,Rutas del Darién,Noche (8pm-4am),2.6,962,941,21,Cicatriz/Mancha
+V-10139,2025-05-31,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.0,947,892,55,Madurez Prematura
+V-10140,2025-04-08,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.2,808,797,11,Cicatriz/Mancha
+V-10141,2025-06-06,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.0,946,899,47,Daño Mecánico
+V-10142,2025-03-15,Apartadó,San José Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.4,1098,1050,48,Daño Mecánico
+V-10143,2025-06-26,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.6,966,897,69,Daño Mecánico
+V-10144,2025-01-06,Turbo,San José Turbo,Logística Bananera,Noche (8pm-4am),6.2,935,856,79,Daño Mecánico
+V-10145,2025-06-20,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),3.7,984,964,20,Madurez Prematura
+V-10146,2025-03-14,Apartadó,Villa Verde Apartadó,Logística Bananera,Noche (8pm-4am),1.3,821,800,21,Madurez Prematura
+V-10147,2025-05-21,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),3.9,840,812,28,Calibre No Conforme
+V-10148,2025-04-18,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.9,935,878,57,Calibre No Conforme
+V-10149,2025-05-29,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),4.5,1072,978,94,Cicatriz/Mancha
+V-10150,2025-06-09,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),3.6,1092,1072,20,Daño Mecánico
+V-10151,2025-05-31,Carepa,Villa Verde Carepa,Logística Bananera,Tarde (12pm-8pm),1.9,965,904,61,Cicatriz/Mancha
+V-10152,2025-05-01,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),5.7,1079,977,102,Madurez Prematura
+V-10153,2025-05-13,Chigorodó,San José Chigorodó,TransUrabá,Noche (8pm-4am),3.6,998,985,13,Madurez Prematura
+V-10154,2025-06-30,Turbo,La Bonita Turbo,Logística Bananera,Tarde (12pm-8pm),6.3,1002,893,109,Madurez Prematura
+V-10155,2025-01-19,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),2.7,867,823,44,Calibre No Conforme
+V-10156,2025-06-06,Apartadó,La Bonita Apartadó,Rutas del Darién,Mañana (4am-12pm),1.4,889,864,25,Calibre No Conforme
+V-10157,2025-04-17,Turbo,El Tesoro Turbo,TransUrabá,Noche (8pm-4am),5.4,1041,959,82,Daño Mecánico
+V-10158,2025-05-06,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),4.8,1029,965,64,Calibre No Conforme
+V-10159,2025-01-24,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),3.3,834,815,19,Calibre No Conforme
+V-10160,2025-01-11,Turbo,San José Turbo,TransUrabá,Tarde (12pm-8pm),5.8,950,850,100,Madurez Prematura
+V-10161,2025-06-20,Carepa,El Tesoro Carepa,Logística Bananera,Tarde (12pm-8pm),1.2,1058,1006,52,Cicatriz/Mancha
+V-10162,2025-05-18,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.3,1045,928,117,Madurez Prematura
+V-10163,2025-05-02,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.5,1018,1008,10,Madurez Prematura
+V-10164,2025-03-21,Carepa,La Esperanza Carepa,Logística Bananera,Noche (8pm-4am),1.5,964,930,34,Daño Mecánico
+V-10165,2025-02-26,Turbo,El Bananal Turbo,Rutas del Darién,Mañana (4am-12pm),3.8,866,840,26,Daño Mecánico
+V-10166,2025-04-19,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),2.3,1073,1045,28,Daño Mecánico
+V-10167,2025-04-01,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Tarde (12pm-8pm),2.6,1094,1035,59,Daño Mecánico
+V-10168,2025-02-10,Turbo,El Bananal Turbo,Logística Bananera,Tarde (12pm-8pm),4.0,1090,1044,46,Cicatriz/Mancha
+V-10169,2025-05-15,Turbo,San José Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),6.2,878,817,61,Daño Mecánico
+V-10170,2025-05-28,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.5,925,837,88,Madurez Prematura
+V-10171,2025-03-02,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),6.3,895,819,76,Daño Mecánico
+V-10172,2025-02-23,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),2.1,918,882,36,Cicatriz/Mancha
+V-10173,2025-06-19,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.8,818,780,38,Calibre No Conforme
+V-10174,2025-03-07,Turbo,El Tesoro Turbo,Logística Bananera,Mañana (4am-12pm),5.2,886,818,68,Madurez Prematura
+V-10175,2025-02-26,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),1.9,823,805,18,Madurez Prematura
+V-10176,2025-01-29,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),2.8,833,785,48,Madurez Prematura
+V-10177,2025-03-30,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.3,962,926,36,Cicatriz/Mancha
+V-10178,2025-06-22,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.9,972,917,55,Madurez Prematura
+V-10179,2025-06-13,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Mañana (4am-12pm),4.0,889,862,27,Cicatriz/Mancha
+V-10180,2025-06-13,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Noche (8pm-4am),6.3,1044,956,88,Calibre No Conforme
+V-10181,2025-02-18,Apartadó,El Bananal Apartadó,Rutas del Darién,Noche (8pm-4am),2.0,827,814,13,Calibre No Conforme
+V-10182,2025-04-12,Apartadó,San José Apartadó,TransUrabá,Mañana (4am-12pm),1.5,944,929,15,Madurez Prematura
+V-10183,2025-01-08,Carepa,El Tesoro Carepa,Logística Bananera,Mañana (4am-12pm),2.1,995,958,37,Cicatriz/Mancha
+V-10184,2025-04-03,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.9,839,771,68,Madurez Prematura
+V-10185,2025-06-14,Turbo,Villa Verde Turbo,TransUrabá,Mañana (4am-12pm),4.2,1047,957,90,Daño Mecánico
+V-10186,2025-02-01,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,955,944,11,Daño Mecánico
+V-10187,2025-04-14,Apartadó,San José Apartadó,TransUrabá,Noche (8pm-4am),2.4,1017,988,29,Madurez Prematura
+V-10188,2025-06-19,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,906,875,31,Calibre No Conforme
+V-10189,2025-04-26,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.5,825,780,45,Calibre No Conforme
+V-10190,2025-04-10,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),6.0,971,910,61,Calibre No Conforme
+V-10191,2025-06-20,Chigorodó,La Esperanza Chigorodó,TransUrabá,Noche (8pm-4am),4.5,1075,999,76,Daño Mecánico
+V-10192,2025-05-13,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),4.0,890,844,46,Calibre No Conforme
+V-10193,2025-03-11,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),2.1,956,936,20,Daño Mecánico
+V-10194,2025-06-29,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),4.6,991,925,66,Cicatriz/Mancha
+V-10195,2025-02-13,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),1.4,1061,1049,12,Madurez Prematura
+V-10196,2025-03-02,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),4.9,848,796,52,Madurez Prematura
+V-10197,2025-01-19,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Mañana (4am-12pm),3.3,829,817,12,Madurez Prematura
+V-10198,2025-05-31,Carepa,La Bonita Carepa,Logística Bananera,Mañana (4am-12pm),1.5,1098,1086,12,Daño Mecánico
+V-10199,2025-06-21,Chigorodó,Villa Verde Chigorodó,TransUrabá,Tarde (12pm-8pm),3.9,1060,995,65,Cicatriz/Mancha
+V-10200,2025-03-16,Turbo,San José Turbo,TransUrabá,Noche (8pm-4am),3.6,897,888,9,Madurez Prematura
+V-10201,2025-01-12,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),4.5,993,926,67,Cicatriz/Mancha
+V-10202,2025-03-27,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),6.2,1026,909,117,Madurez Prematura
+V-10203,2025-05-12,Apartadó,San José Apartadó,TransUrabá,Mañana (4am-12pm),1.9,1001,987,14,Daño Mecánico
+V-10204,2025-04-30,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),1.7,800,772,28,Daño Mecánico
+V-10205,2025-05-31,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,816,801,15,Calibre No Conforme
+V-10206,2025-02-19,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.4,942,914,28,Daño Mecánico
+V-10207,2025-03-22,Turbo,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),3.7,1042,1030,12,Daño Mecánico
+V-10208,2025-03-17,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.2,1084,1059,25,Calibre No Conforme
+V-10209,2025-05-06,Chigorodó,El Bananal Chigorodó,Logística Bananera,Mañana (4am-12pm),2.5,940,930,10,Cicatriz/Mancha
+V-10210,2025-06-09,Chigorodó,San José Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.1,989,882,107,Madurez Prematura
+V-10211,2025-03-29,Turbo,El Bananal Turbo,Rutas del Darién,Tarde (12pm-8pm),5.9,836,741,95,Madurez Prematura
+V-10212,2025-04-21,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Tarde (12pm-8pm),2.8,908,870,38,Daño Mecánico
+V-10213,2025-04-26,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),3.8,844,835,9,Madurez Prematura
+V-10214,2025-06-24,Turbo,San José Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.7,941,877,64,Cicatriz/Mancha
+V-10215,2025-05-17,Carepa,El Bananal Carepa,Logística Bananera,Mañana (4am-12pm),1.5,1027,999,28,Daño Mecánico
+V-10216,2025-06-26,Turbo,San José Turbo,Carga Agrícola S.A.,Noche (8pm-4am),6.5,822,761,61,Daño Mecánico
+V-10217,2025-01-08,Turbo,El Tesoro Turbo,Rutas del Darién,Noche (8pm-4am),5.2,895,826,69,Madurez Prematura
+V-10218,2025-06-09,Chigorodó,Villa Verde Chigorodó,TransUrabá,Tarde (12pm-8pm),3.3,939,899,40,Daño Mecánico
+V-10219,2025-03-18,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),2.6,1009,978,31,Calibre No Conforme
+V-10220,2025-06-13,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),,953,889,64,Cicatriz/Mancha
+V-10221,2025-04-09,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.0,875,841,34,Cicatriz/Mancha
+V-10222,2025-01-24,Carepa,San José Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.8,865,855,10,Cicatriz/Mancha
+V-10223,2025-04-30,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.4,1078,951,127,Madurez Prematura
+V-10224,2025-02-27,Carepa,San José Carepa,TransUrabá,Noche (8pm-4am),2.8,1053,1018,35,Calibre No Conforme
+V-10225,2025-03-13,Apartadó,El Bananal Apartadó,TransUrabá,Tarde (12pm-8pm),1.2,907,852,55,Cicatriz/Mancha
+V-10226,2025-06-26,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),2.8,984,922,62,Madurez Prematura
+V-10227,2025-01-12,Apartadó,El Bananal Apartadó,Rutas del Darién,Noche (8pm-4am),1.7,1003,992,11,Cicatriz/Mancha
+V-10228,2025-03-03,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),5.7,809,714,95,Madurez Prematura
+V-10229,2025-01-12,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.5,1081,1005,76,Daño Mecánico
+V-10230,2025-05-15,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.4,1097,1022,75,Calibre No Conforme
+V-10231,2025-05-22,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,834,819,15,Calibre No Conforme
+V-10232,2025-04-23,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.5,1031,1010,21,Daño Mecánico
+V-10233,2025-04-13,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),3.2,1021,986,35,Daño Mecánico
+V-10234,2025-01-01,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),2.4,1067,996,71,Cicatriz/Mancha
+V-10235,2025-04-23,Apartadó,La Esperanza Apartadó,TransUrabá,Mañana (4am-12pm),2.1,1075,1064,11,Daño Mecánico
+V-10236,2025-03-15,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),4.3,992,901,91,Madurez Prematura
+V-10237,2025-03-26,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),1.6,924,896,28,Daño Mecánico
+V-10238,2025-01-12,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.2,1058,1033,25,Daño Mecánico
+V-10239,2025-04-28,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.5,896,866,30,Daño Mecánico
+V-10240,2025-01-23,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.8,849,793,56,Madurez Prematura
+V-10241,2025-03-18,Chigorodó,El Bananal Chigorodó,TransUrabá,Tarde (12pm-8pm),4.2,826,752,74,Madurez Prematura
+V-10242,2025-01-18,Apartadó,San José Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.0,962,898,64,Calibre No Conforme
+V-10243,2025-06-30,Apartadó,El Tesoro Apartadó,Logística Bananera,Noche (8pm-4am),2.1,928,913,15,Madurez Prematura
+V-10244,2025-06-04,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.1,924,842,82,Madurez Prematura
+V-10245,2025-05-20,Carepa,El Tesoro Carepa,Rutas del Darién,Tarde (12pm-8pm),2.0,969,926,43,Calibre No Conforme
+V-10246,2025-03-21,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),5.0,803,725,78,Madurez Prematura
+V-10247,2025-03-05,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Noche (8pm-4am),4.6,1083,1007,76,Cicatriz/Mancha
+V-10248,2025-02-02,Apartadó,La Bonita Apartadó,TransUrabá,Mañana (4am-12pm),2.3,946,933,13,Daño Mecánico
+V-10249,2025-01-01,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.4,1064,965,99,Madurez Prematura
+V-10250,2025-05-09,Carepa,Villa Verde Carepa,Logística Bananera,Tarde (12pm-8pm),2.4,826,786,40,Daño Mecánico
+V-10251,2025-01-31,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.7,866,807,59,Calibre No Conforme
+V-10252,2025-04-29,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.9,1052,1034,18,Madurez Prematura
+V-10253,2025-06-12,Turbo,El Tesoro Turbo,TransUrabá,Mañana (4am-12pm),3.8,877,867,10,Daño Mecánico
+V-10254,2025-02-05,Carepa,San José Carepa,Rutas del Darién,Mañana (4am-12pm),1.3,817,789,28,Madurez Prematura
+V-10255,2025-03-28,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.0,982,929,53,Cicatriz/Mancha
+V-10256,2025-03-15,Chigorodó,San José Chigorodó,Logística Bananera,Noche (8pm-4am),2.5,850,828,22,Calibre No Conforme
+V-10257,2025-02-11,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.9,840,802,38,Daño Mecánico
+V-10258,2025-02-13,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.8,884,855,29,Madurez Prematura
+V-10259,2025-03-27,Carepa,El Bananal Carepa,TransUrabá,Noche (8pm-4am),,832,819,13,Daño Mecánico
+V-10260,2025-01-18,Carepa,Villa Verde Carepa,Rutas del Darién,Tarde (12pm-8pm),2.3,1074,1022,52,Daño Mecánico
+V-10261,2025-01-23,Turbo,San José Turbo,Rutas del Darién,Noche (8pm-4am),5.3,903,847,56,Calibre No Conforme
+V-10262,2025-06-09,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.9,988,959,29,Daño Mecánico
+V-10263,2025-04-16,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),2.7,817,798,19,Daño Mecánico
+V-10264,2025-04-20,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.1,1070,1042,28,Daño Mecánico
+V-10265,2025-02-07,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.9,997,962,35,Madurez Prematura
+V-10266,2025-06-16,Carepa,La Esperanza Carepa,TransUrabá,Mañana (4am-12pm),2.1,934,911,23,Madurez Prematura
+V-10267,2025-04-20,Carepa,Villa Verde Carepa,Rutas del Darién,Tarde (12pm-8pm),2.5,896,853,43,Cicatriz/Mancha
+V-10268,2025-03-29,Apartadó,La Esperanza Apartadó,TransUrabá,Mañana (4am-12pm),1.4,820,791,29,Madurez Prematura
+V-10269,2025-06-25,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.0,932,873,59,Calibre No Conforme
+V-10270,2025-03-17,Turbo,El Tesoro Turbo,TransUrabá,Noche (8pm-4am),6.0,854,778,76,Daño Mecánico
+V-10271,2025-06-12,Apartadó,El Tesoro Apartadó,TransUrabá,Tarde (12pm-8pm),1.2,876,825,51,Daño Mecánico
+V-10272,2025-02-16,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.7,921,871,50,Daño Mecánico
+V-10273,2025-03-31,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),4.5,1063,994,69,Madurez Prematura
+V-10274,2025-05-09,Chigorodo,Villa Verde Chigorodó,TransUrabá,Tarde (12pm-8pm),3.2,1037,991,46,Cicatriz/Mancha
+V-10275,2025-04-08,Turbo,El Tesoro Turbo,Rutas del Darién,Noche (8pm-4am),5.7,1088,1000,88,Daño Mecánico
+V-10276,2025-02-10,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Mañana (4am-12pm),4.0,998,981,17,Madurez Prematura
+V-10277,2025-05-01,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.3,815,748,67,Cicatriz/Mancha
+V-10278,2025-02-04,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Noche (8pm-4am),4.1,906,836,70,Cicatriz/Mancha
+V-10279,2025-03-11,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),2.1,1045,1024,21,Daño Mecánico
+V-10280,2025-02-16,Apartadó,La Esperanza Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.3,919,860,59,Calibre No Conforme
+V-10281,2025-06-12,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),3.7,1057,997,60,Cicatriz/Mancha
+V-10282,2025-05-14,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.9,990,931,59,Cicatriz/Mancha
+V-10283,2025-05-05,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),3.0,860,848,12,Cicatriz/Mancha
+V-10284,2025-04-04,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),2.8,1097,1057,40,Madurez Prematura
+V-10285,2025-02-27,Apartadó,San José Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.1,1092,1045,47,Daño Mecánico
+V-10286,2025-06-24,Chigorodó,El Tesoro Chigorodó,TransUrabá,Noche (8pm-4am),4.6,875,813,62,Cicatriz/Mancha
+V-10287,2025-04-07,Apartadó,San José Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.6,846,829,17,Calibre No Conforme
+V-10288,2025-04-02,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.9,1003,914,89,Cicatriz/Mancha
+V-10289,2025-02-15,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.2,1088,1010,78,Madurez Prematura
+V-10290,2025-01-17,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),4.6,864,800,64,Daño Mecánico
+V-10291,2025-06-13,TURBO,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),5.6,1089,1015,74,Madurez Prematura
+V-10292,2025-06-02,Apartadó,San José Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.7,943,901,42,Daño Mecánico
+V-10293,2025-06-18,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.2,826,809,17,Calibre No Conforme
+V-10294,2025-03-09,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.2,945,858,87,Madurez Prematura
+V-10295,2025-03-13,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.6,855,796,59,Calibre No Conforme
+V-10296,2025-02-18,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),4.0,1019,952,67,Madurez Prematura
+V-10297,2025-04-18,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.1,1004,918,86,Daño Mecánico
+V-10298,2025-06-11,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),1.3,1054,1038,16,Calibre No Conforme
+V-10299,2025-06-22,Turbo,San José Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),6.2,853,764,89,Madurez Prematura
+V-10300,2025-03-28,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.7,1026,991,35,Madurez Prematura
+V-10301,2025-06-07,Carepa,El Bananal Carepa,Rutas del Darién,Noche (8pm-4am),2.7,1026,1009,17,Calibre No Conforme
+V-10302,2025-05-22,Carepa,El Bananal Carepa,TransUrabá,Noche (8pm-4am),1.1,965,948,17,Madurez Prematura
+V-10303,2025-05-02,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.1,824,773,51,Madurez Prematura
+V-10304,2025-04-06,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),2.9,1048,1030,18,Calibre No Conforme
+V-10305,2025-02-25,Turbo,La Bonita Turbo,TransUrabá,Noche (8pm-4am),5.9,937,875,62,Cicatriz/Mancha
+V-10306,2025-04-16,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.6,812,767,45,Daño Mecánico
+V-10307,2025-05-27,Carepa,El Bananal Carepa,Rutas del Darién,Noche (8pm-4am),1.4,851,830,21,Cicatriz/Mancha
+V-10308,2025-02-11,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.9,963,935,28,Daño Mecánico
+V-10309,2025-03-15,Apartadó,San José Apartadó,TransUrabá,Mañana (4am-12pm),1.5,846,835,11,Daño Mecánico
+V-10310,2025-03-14,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.5,1026,943,83,Calibre No Conforme
+V-10311,2025-04-09,Carepa,El Bananal Carepa,TransUrabá,Tarde (12pm-8pm),1.4,1001,932,69,Madurez Prematura
+V-10312,2025-06-16,Carepa,El Tesoro Carepa,Logística Bananera,Mañana (4am-12pm),2.5,1035,1021,14,Daño Mecánico
+V-10313,2025-05-23,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),2.8,1089,1062,27,Daño Mecánico
+V-10314,2025-05-24,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),6.4,881,809,72,Madurez Prematura
+V-10315,2025-06-17,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.7,812,785,27,Cicatriz/Mancha
+V-10316,2025-05-28,Turbo,El Bananal Turbo,Rutas del Darién,Mañana (4am-12pm),4.1,921,848,73,Cicatriz/Mancha
+V-10317,2025-05-18,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.8,1012,926,86,Calibre No Conforme
+V-10318,2025-05-24,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.5,1068,944,124,Madurez Prematura
+V-10319,2025-04-09,Turbo,La Esperanza Turbo,Logística Bananera,Noche (8pm-4am),6.4,887,830,57,Daño Mecánico
+V-10320,2025-03-08,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.8,1064,1009,55,Calibre No Conforme
+V-10321,2025-01-31,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),5.1,1034,918,116,Madurez Prematura
+V-10322,2025-04-01,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.8,969,904,65,Cicatriz/Mancha
+V-10323,2025-03-01,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.2,934,855,79,Daño Mecánico
+V-10324,2025-05-18,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),6.1,846,750,96,Madurez Prematura
+V-10325,2025-02-07,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),6.1,1005,938,67,Madurez Prematura
+V-10326,2025-02-03,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.8,871,816,55,Madurez Prematura
+V-10327,2025-01-07,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.3,1023,976,47,Madurez Prematura
+V-10328,2025-05-30,Apartadó,El Bananal Apartadó,Logística Bananera,Noche (8pm-4am),2.4,1095,1066,29,Cicatriz/Mancha
+V-10329,2025-04-18,Turbo,El Bananal Turbo,Logística Bananera,Noche (8pm-4am),6.2,802,744,58,Madurez Prematura
+V-10330,2025-05-23,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.7,918,813,105,Madurez Prematura
+V-10331,2025-02-11,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.1,917,879,38,Cicatriz/Mancha
+V-10332,2025-04-22,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.0,972,950,22,Madurez Prematura
+V-10333,2025-02-06,Carepa,Villa Verde Carepa,TransUrabá,Noche (8pm-4am),1.8,822,807,15,Madurez Prematura
+V-10334,2025-06-11,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Mañana (4am-12pm),4.6,874,810,64,Madurez Prematura
+V-10335,2025-03-02,Carepa,El Tesoro Carepa,Rutas del Darién,Noche (8pm-4am),1.9,958,941,17,Daño Mecánico
+V-10336,2025-02-16,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.1,1078,950,128,Madurez Prematura
+V-10337,2025-06-15,Chigorodó,La Bonita Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.1,872,823,49,Calibre No Conforme
+V-10338,2025-02-23,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),1.1,1048,1015,33,Calibre No Conforme
+V-10339,2025-01-15,Turbo,Villa Verde Turbo,Rutas del Darién,Tarde (12pm-8pm),,1040,943,97,Madurez Prematura
+V-10340,2025-01-12,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.5,1099,1087,12,Calibre No Conforme
+V-10341,2025-05-02,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.2,884,792,92,Madurez Prematura
+V-10342,2025-01-07,Turbo,El Tesoro Turbo,TransUrabá,Mañana (4am-12pm),5.8,829,767,62,Daño Mecánico
+V-10343,2025-01-13,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),4.7,961,877,84,Daño Mecánico
+V-10344,2025-05-26,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.8,902,852,50,Cicatriz/Mancha
+V-10345,2025-01-11,Turbo,El Tesoro Turbo,Logística Bananera,Mañana (4am-12pm),3.9,894,886,8,Madurez Prematura
+V-10346,2025-03-30,Turbo,La Bonita Turbo,Logística Bananera,Tarde (12pm-8pm),4.0,866,808,58,Calibre No Conforme
+V-10347,2025-06-20,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.5,947,872,75,Madurez Prematura
+V-10348,2025-06-27,Apartadó,El Bananal Apartadó,Logística Bananera,Tarde (12pm-8pm),2.4,886,835,51,Madurez Prematura
+V-10349,2025-06-11,Apartadó,La Bonita Apartadó,TransUrabá,Mañana (4am-12pm),1.9,908,872,36,Madurez Prematura
+V-10350,2025-03-07,Apartadó,El Bananal Apartadó,Logística Bananera,Noche (8pm-4am),2.6,852,822,30,Calibre No Conforme
+V-10351,2025-05-21,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),2.8,928,901,27,Calibre No Conforme
+V-10352,2025-04-08,Chigorodó,San José Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.3,1026,975,51,Cicatriz/Mancha
+V-10353,2025-01-28,Chigorodó,El Bananal Chigorodó,TransUrabá,Mañana (4am-12pm),4.6,1080,996,84,Daño Mecánico
+V-10354,2025-06-10,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.8,916,820,96,Madurez Prematura
+V-10355,2025-04-06,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),1.5,978,960,18,Daño Mecánico
+V-10356,2025-04-02,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),4.6,986,917,69,Calibre No Conforme
+V-10357,2025-06-14,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.9,1037,978,59,Cicatriz/Mancha
+V-10358,2025-05-25,Chigorodó,San José Chigorodó,TransUrabá,Tarde (12pm-8pm),4.7,867,770,97,Madurez Prematura
+V-10359,2025-04-04,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),3.9,1090,1066,24,Cicatriz/Mancha
+V-10360,2025-04-07,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.3,1092,1079,13,Cicatriz/Mancha
+V-10361,2025-04-28,Turbo,San José Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.0,989,946,43,Madurez Prematura
+V-10362,2025-06-28,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Mañana (4am-12pm),3.6,1018,993,25,Cicatriz/Mancha
+V-10363,2025-02-17,Apartadó,Villa Verde Apartadó,Logística Bananera,Mañana (4am-12pm),1.3,1009,999,10,Madurez Prematura
+V-10364,2025-02-09,Apartadó,Villa Verde Apartadó,Logística Bananera,Tarde (12pm-8pm),2.1,972,910,62,Cicatriz/Mancha
+V-10365,2025-02-12,Chigorodó,La Bonita Chigorodó,TransUrabá,Mañana (4am-12pm),3.5,995,976,19,Calibre No Conforme
+V-10366,2025-03-11,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),5.2,820,763,57,Cicatriz/Mancha
+V-10367,2025-06-19,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),2.0,910,876,34,Cicatriz/Mancha
+V-10368,2025-01-18,Apartadó,San José Apartadó,TransUrabá,Mañana (4am-12pm),1.4,1058,1024,34,Daño Mecánico
+V-10369,2025-03-29,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),2.5,866,819,47,Madurez Prematura
+V-10370,2025-02-25,Chigorodo,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),3.7,961,927,34,Madurez Prematura
+V-10371,2025-06-13,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.5,1048,991,57,Calibre No Conforme
+V-10372,2025-02-06,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),3.6,1025,971,54,Cicatriz/Mancha
+V-10373,2025-01-30,Apartadó,La Bonita Apartadó,Rutas del Darién,Noche (8pm-4am),2.6,971,959,12,Calibre No Conforme
+V-10374,2025-05-23,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),1.2,978,951,27,Madurez Prematura
+V-10375,2025-02-19,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.0,1097,1080,17,Calibre No Conforme
+V-10376,2025-04-03,Apartadó,San José Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.5,916,873,43,Madurez Prematura
+V-10377,2025-04-11,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.0,882,821,61,Cicatriz/Mancha
+V-10378,2025-05-18,Chigorodó,Villa Verde Chigorodó,TransUrabá,Mañana (4am-12pm),3.3,887,862,25,Daño Mecánico
+V-10379,2025-04-05,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.1,981,922,59,Daño Mecánico
+V-10380,2025-05-07,Chigorodó,La Esperanza Chigorodó,TransUrabá,Noche (8pm-4am),4.8,824,763,61,Cicatriz/Mancha
+V-10381,2025-04-05,Carepa,Villa Verde Carepa,Rutas del Darién,Mañana (4am-12pm),2.3,1083,1057,26,Daño Mecánico
+V-10382,2025-05-25,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.5,1060,1043,17,Daño Mecánico
+V-10383,2025-02-27,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),3.8,1006,961,45,Daño Mecánico
+V-10384,2025-03-29,Carepa,La Bonita Carepa,TransUrabá,Mañana (4am-12pm),1.0,835,806,29,Madurez Prematura
+V-10385,2025-05-20,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.1,876,864,12,Daño Mecánico
+V-10386,2025-01-04,Turbo,La Esperanza Turbo,Logística Bananera,Noche (8pm-4am),4.3,994,922,72,Calibre No Conforme
+V-10387,2025-02-03,Turbo,San José Turbo,TransUrabá,Mañana (4am-12pm),5.7,834,771,63,Madurez Prematura
+V-10388,2025-04-07,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.7,1016,958,58,Cicatriz/Mancha
+V-10389,2025-05-09,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.4,1063,1028,35,Cicatriz/Mancha
+V-10390,2025-03-02,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.6,926,887,39,Cicatriz/Mancha
+V-10391,2025-05-03,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.1,832,780,52,Calibre No Conforme
+V-10392,2025-02-01,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),2.6,1049,988,61,Madurez Prematura
+V-10393,2025-06-19,Chigorodó,San José Chigorodó,Logística Bananera,Mañana (4am-12pm),2.6,880,856,24,Calibre No Conforme
+V-10394,2025-05-28,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.0,877,865,12,Daño Mecánico
+V-10395,2025-02-19,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),6.4,946,859,87,Madurez Prematura
+V-10396,2025-02-21,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.4,1013,998,15,Calibre No Conforme
+V-10397,2025-05-05,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.0,964,944,20,Cicatriz/Mancha
+V-10398,2025-06-01,Apartadó,El Bananal Apartadó,TransUrabá,Noche (8pm-4am),2.3,944,922,22,Madurez Prematura
+V-10399,2025-06-20,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.4,839,743,96,Madurez Prematura
+V-10400,2025-03-24,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),1.6,823,815,8,Daño Mecánico
+V-10401,2025-04-26,Carepa,La Esperanza Carepa,Logística Bananera,Noche (8pm-4am),1.9,1062,1020,42,Madurez Prematura
+V-10402,2025-04-17,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),2.8,1074,1043,31,Cicatriz/Mancha
+V-10403,2025-06-22,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),3.6,926,890,36,Daño Mecánico
+V-10404,2025-03-10,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.5,905,810,95,Madurez Prematura
+V-10405,2025-01-12,Carepa,San José Carepa,Rutas del Darién,Mañana (4am-12pm),1.0,987,964,23,Daño Mecánico
+V-10406,2025-01-09,Turbo,San José Turbo,Rutas del Darién,Mañana (4am-12pm),3.6,880,865,15,Daño Mecánico
+V-10407,2025-02-27,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),2.0,1008,981,27,Calibre No Conforme
+V-10408,2025-04-22,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.6,1089,1000,89,Daño Mecánico
+V-10409,2025-01-25,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),1.8,1100,1061,39,Madurez Prematura
+V-10410,2025-06-13,Carepa,La Esperanza Carepa,TransUrabá,Tarde (12pm-8pm),2.9,847,808,39,Daño Mecánico
+V-10411,2025-01-27,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.3,1026,957,69,Calibre No Conforme
+V-10412,2025-01-22,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),4.2,945,856,89,Madurez Prematura
+V-10413,2025-05-06,Apartadó,San José Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),,858,826,32,Madurez Prematura
+V-10414,2025-03-11,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),2.8,1034,968,66,Calibre No Conforme
+V-10415,2025-06-17,Carepa,El Tesoro Carepa,Logística Bananera,Tarde (12pm-8pm),2.0,1041,989,52,Cicatriz/Mancha
+V-10416,2025-03-16,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),6.3,1094,1028,66,Madurez Prematura
+V-10417,2025-04-08,Chigorodó,El Tesoro Chigorodó,TransUrabá,Mañana (4am-12pm),2.6,908,881,27,Madurez Prematura
+V-10418,2025-04-26,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),1.0,920,890,30,Daño Mecánico
+V-10419,2025-03-16,Chigorodó,San José Chigorodó,TransUrabá,Mañana (4am-12pm),4.1,1058,966,92,Daño Mecánico
+V-10420,2025-02-02,Apartadó,Villa Verde Apartadó,TransUrabá,Mañana (4am-12pm),1.7,1090,1075,15,Cicatriz/Mancha
+V-10421,2025-05-21,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.7,855,793,62,Madurez Prematura
+V-10422,2025-03-01,Carepa,Villa Verde Carepa,TransUrabá,Mañana (4am-12pm),,803,784,19,Cicatriz/Mancha
+V-10423,2025-03-08,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),,817,807,10,Madurez Prematura
+V-10424,2025-06-20,Apartadó,El Tesoro Apartadó,Logística Bananera,Noche (8pm-4am),2.2,1025,986,39,Madurez Prematura
+V-10425,2025-04-20,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Noche (8pm-4am),2.5,864,830,34,Madurez Prematura
+V-10426,2025-05-22,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.9,910,840,70,Cicatriz/Mancha
+V-10427,2025-02-01,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.6,988,943,45,Daño Mecánico
+V-10428,2025-05-10,Carepa,El Tesoro Carepa,TransUrabá,Tarde (12pm-8pm),,830,776,54,Daño Mecánico
+V-10429,2025-04-23,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.4,1030,972,58,Daño Mecánico
+V-10430,2025-02-28,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),2.2,933,920,13,Cicatriz/Mancha
+V-10431,2025-05-29,Carepa,El Bananal Carepa,Rutas del Darién,Noche (8pm-4am),2.2,1023,989,34,Cicatriz/Mancha
+V-10432,2025-02-28,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),,865,804,61,Calibre No Conforme
+V-10433,2025-01-13,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),,842,785,57,Daño Mecánico
+V-10434,2025-06-06,Apartadó,El Tesoro Apartadó,TransUrabá,Tarde (12pm-8pm),1.5,947,887,60,Cicatriz/Mancha
+V-10435,2025-06-10,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),2.8,1099,1033,66,Daño Mecánico
+V-10436,2025-02-01,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),2.2,927,873,54,Madurez Prematura
+V-10437,2025-03-29,Apartado,El Bananal Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.8,1048,1028,20,Calibre No Conforme
+V-10438,2025-03-23,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.1,885,820,65,Cicatriz/Mancha
+V-10439,2025-04-27,Carepa,Villa Verde Carepa,TransUrabá,Noche (8pm-4am),,972,953,19,Cicatriz/Mancha
+V-10440,2025-04-17,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),4.9,993,910,83,Daño Mecánico
+V-10441,2025-01-20,Chigorodó,La Esperanza Chigorodó,TransUrabá,Noche (8pm-4am),4.0,851,835,16,Madurez Prematura
+V-10442,2025-05-13,Turbo,La Esperanza Turbo,TransUrabá,Tarde (12pm-8pm),3.7,1044,1002,42,Cicatriz/Mancha
+V-10443,2025-02-06,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.9,865,857,8,Calibre No Conforme
+V-10444,2025-04-09,Carepa,San José Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.1,949,931,18,Calibre No Conforme
+V-10445,2025-04-14,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),3.8,836,821,15,Cicatriz/Mancha
+V-10446,2025-06-17,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),3.7,1096,1059,37,Madurez Prematura
+V-10447,2025-03-08,Turbo,Villa Verde Turbo,TransUrabá,Mañana (4am-12pm),4.2,877,807,70,Cicatriz/Mancha
+V-10448,2025-03-25,Carepa,San José Carepa,Logística Bananera,Noche (8pm-4am),1.9,819,793,26,Madurez Prematura
+V-10449,2025-05-09,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.5,1038,972,66,Daño Mecánico
+V-10450,2025-06-27,carepa ,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,1032,998,34,Madurez Prematura
+V-10451,2025-03-13,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),,918,869,49,Calibre No Conforme
+V-10452,2025-04-13,Chigorodó,La Bonita Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.7,1000,896,104,Madurez Prematura
+V-10453,2025-01-02,Apartadó,San José Apartadó,Logística Bananera,Mañana (4am-12pm),2.8,1098,1074,24,Daño Mecánico
+V-10454,2025-02-14,Carepa,San José Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.1,906,871,35,Calibre No Conforme
+V-10455,2025-01-27,Chigorodó,La Bonita Chigorodó,TransUrabá,Mañana (4am-12pm),5.0,889,811,78,Calibre No Conforme
+V-10456,2025-04-10,Carepa,El Bananal Carepa,TransUrabá,Mañana (4am-12pm),1.0,981,969,12,Cicatriz/Mancha
+V-10457,2025-05-20,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.7,843,801,42,Daño Mecánico
+V-10458,2025-04-04,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.6,959,939,20,Daño Mecánico
+V-10459,2025-05-18,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.0,988,961,27,Madurez Prematura
+V-10460,2025-01-09,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.0,1064,1047,17,Daño Mecánico
+V-10461,2025-04-13,Apartadó,El Bananal Apartadó,TransUrabá,Tarde (12pm-8pm),2.8,1075,1012,63,Cicatriz/Mancha
+V-10462,2025-04-23,Turbo,San José Turbo,Rutas del Darién,Mañana (4am-12pm),5.7,1062,998,64,Madurez Prematura
+V-10463,2025-04-25,Chigorodo,El Tesoro Chigorodó,TransUrabá,Mañana (4am-12pm),3.7,963,946,17,Daño Mecánico
+V-10464,2025-04-29,Carepa,La Esperanza Carepa,Logística Bananera,Tarde (12pm-8pm),1.1,846,796,50,Calibre No Conforme
+V-10465,2025-03-18,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),3.3,936,927,9,Madurez Prematura
+V-10466,2025-04-13,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),5.3,919,837,82,Cicatriz/Mancha
+V-10467,2025-02-11,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),4.9,963,883,80,Cicatriz/Mancha
+V-10468,2025-02-24,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),3.6,902,860,42,Madurez Prematura
+V-10469,2025-05-14,Turbo,La Bonita Turbo,Rutas del Darién,Noche (8pm-4am),4.8,949,871,78,Madurez Prematura
+V-10470,2025-05-14,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.1,1058,1019,39,Madurez Prematura
+V-10471,2025-02-10,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),6.2,1063,990,73,Calibre No Conforme
+V-10472,2025-04-21,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.0,887,834,53,Madurez Prematura
+V-10473,2025-06-04,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),5.8,895,795,100,Madurez Prematura
+V-10474,2025-03-19,carepa ,El Tesoro Carepa,Rutas del Darién,Tarde (12pm-8pm),1.7,982,925,57,Madurez Prematura
+V-10475,2025-03-31,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),1.6,825,807,18,Cicatriz/Mancha
+V-10476,2025-04-27,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),2.2,934,900,34,Daño Mecánico
+V-10477,2025-03-08,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.4,836,793,43,Cicatriz/Mancha
+V-10478,2025-04-08,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.8,859,851,8,Calibre No Conforme
+V-10479,2025-06-28,carepa ,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.3,921,905,16,Cicatriz/Mancha
+V-10480,2025-01-28,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.4,815,787,28,Daño Mecánico
+V-10481,2025-02-02,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.1,987,967,20,Madurez Prematura
+V-10482,2025-01-18,Carepa,El Tesoro Carepa,Rutas del Darién,Tarde (12pm-8pm),2.1,948,891,57,Daño Mecánico
+V-10483,2025-01-13,Carepa,Villa Verde Carepa,TransUrabá,Mañana (4am-12pm),2.1,1096,1074,22,Madurez Prematura
+V-10484,2025-06-23,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.9,950,922,28,Cicatriz/Mancha
+V-10485,2025-04-04,Apartadó,Villa Verde Apartadó,Logística Bananera,Mañana (4am-12pm),2.3,1089,1062,27,Calibre No Conforme
+V-10486,2025-03-17,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),4.2,1064,979,85,Calibre No Conforme
+V-10487,2025-01-14,Turbo,La Esperanza Turbo,Rutas del Darién,Mañana (4am-12pm),4.4,821,753,68,Madurez Prematura
+V-10488,2025-03-01,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),2.7,825,799,26,Madurez Prematura
+V-10489,2025-01-06,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),5.8,871,778,93,Madurez Prematura
+V-10490,2025-03-15,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),2.6,900,888,12,Calibre No Conforme
+V-10491,2025-01-25,Carepa,El Tesoro Carepa,Logística Bananera,Mañana (4am-12pm),1.3,885,863,22,Calibre No Conforme
+V-10492,2025-06-11,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.3,991,912,79,Calibre No Conforme
+V-10493,2025-05-01,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.4,980,929,51,Madurez Prematura
+V-10494,2025-02-10,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.7,914,895,19,Madurez Prematura
+V-10495,2025-01-03,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.1,917,818,99,Madurez Prematura
+V-10496,2025-03-28,Apartadó,La Bonita Apartadó,Logística Bananera,Mañana (4am-12pm),2.2,1028,1011,17,Madurez Prematura
+V-10497,2025-04-12,Carepa,San José Carepa,TransUrabá,Tarde (12pm-8pm),1.8,904,842,62,Calibre No Conforme
+V-10498,2025-03-25,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.9,894,836,58,Madurez Prematura
+V-10499,2025-05-19,Carepa,Villa Verde Carepa,TransUrabá,Noche (8pm-4am),2.6,998,982,16,Cicatriz/Mancha
+V-10500,2025-03-31,Turbo,San José Turbo,Rutas del Darién,Noche (8pm-4am),4.0,1094,1063,31,Calibre No Conforme
+V-10501,2025-06-16,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.2,1052,982,70,Madurez Prematura
+V-10502,2025-05-09,Apartadó,San José Apartadó,Logística Bananera,Mañana (4am-12pm),2.3,1000,977,23,Daño Mecánico
+V-10503,2025-05-08,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),3.6,1013,979,34,Cicatriz/Mancha
+V-10504,2025-04-14,Apartadó,San José Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.4,950,916,34,Cicatriz/Mancha
+V-10505,2025-01-19,Apartadó,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),1.9,946,924,22,Daño Mecánico
+V-10506,2025-05-17,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.8,1049,988,61,Calibre No Conforme
+V-10507,2025-06-02,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),2.5,1029,1000,29,Calibre No Conforme
+V-10508,2025-04-05,Chigorodó,La Esperanza Chigorodó,TransUrabá,Tarde (12pm-8pm),2.6,978,929,49,Calibre No Conforme
+V-10509,2025-06-14,Turbo,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),5.5,995,917,78,Madurez Prematura
+V-10510,2025-05-16,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),4.8,922,858,64,Calibre No Conforme
+V-10511,2025-05-04,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.0,1085,1036,49,Cicatriz/Mancha
+V-10512,2025-01-16,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.5,883,871,12,Daño Mecánico
+V-10513,2025-04-08,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),2.7,885,858,27,Daño Mecánico
+V-10514,2025-02-17,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),5.1,851,767,84,Madurez Prematura
+V-10515,2025-06-10,Chigorodó,San José Chigorodó,Logística Bananera,Mañana (4am-12pm),4.2,890,814,76,Madurez Prematura
+V-10516,2025-05-18,Apartadó,La Bonita Apartadó,Rutas del Darién,Mañana (4am-12pm),2.5,1083,1040,43,Madurez Prematura
+V-10517,2025-01-12,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),5.0,959,847,112,Madurez Prematura
+V-10518,2025-03-25,Chigorodó,San José Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.5,1065,1034,31,Calibre No Conforme
+V-10519,2025-05-23,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.8,843,834,9,Calibre No Conforme
+V-10520,2025-06-03,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.5,918,866,52,Cicatriz/Mancha
+V-10521,2025-03-25,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),2.9,1092,1067,25,Calibre No Conforme
+V-10522,2025-04-08,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),1.7,1042,1002,40,Madurez Prematura
+V-10523,2025-06-09,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.6,960,940,20,Calibre No Conforme
+V-10524,2025-05-10,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Mañana (4am-12pm),4.7,1050,984,66,Madurez Prematura
+V-10525,2025-05-17,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),3.7,1020,968,52,Madurez Prematura
+V-10526,2025-04-17,Turbo,San José Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.9,888,821,67,Madurez Prematura
+V-10527,2025-06-27,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),3.8,992,959,33,Calibre No Conforme
+V-10528,2025-05-18,Apartadó,El Tesoro Apartadó,Rutas del Darién,Noche (8pm-4am),1.8,867,853,14,Madurez Prematura
+V-10529,2025-03-27,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),2.6,805,788,17,Calibre No Conforme
+V-10530,2025-03-08,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),4.3,1045,962,83,Calibre No Conforme
+V-10531,2025-03-08,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),4.3,937,837,100,Madurez Prematura
+V-10532,2025-05-17,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),4.9,1096,1024,72,Madurez Prematura
+V-10533,2025-01-27,Turbo,La Bonita Turbo,TransUrabá,Noche (8pm-4am),3.7,1016,978,38,Calibre No Conforme
+V-10534,2025-06-01,Apartadó,San José Apartadó,TransUrabá,Tarde (12pm-8pm),2.5,804,766,38,Daño Mecánico
+V-10535,2025-01-03,Apartadó,Villa Verde Apartadó,Logística Bananera,Mañana (4am-12pm),1.8,963,928,35,Daño Mecánico
+V-10536,2025-04-04,Apartadó,San José Apartadó,Rutas del Darién,Noche (8pm-4am),2.6,804,773,31,Daño Mecánico
+V-10537,2025-05-24,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),6.4,822,756,66,Daño Mecánico
+V-10538,2025-02-13,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.0,1012,924,88,Cicatriz/Mancha
+V-10539,2025-02-05,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),3.4,1076,1051,25,Daño Mecánico
+V-10540,2025-04-16,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.7,817,752,65,Cicatriz/Mancha
+V-10541,2025-06-13,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.2,897,801,96,Madurez Prematura
+V-10542,2025-01-24,Chigorodó,El Tesoro Chigorodó,TransUrabá,Tarde (12pm-8pm),3.8,952,905,47,Cicatriz/Mancha
+V-10543,2025-04-06,Apartado,El Bananal Apartadó,TransUrabá,Tarde (12pm-8pm),1.4,1060,1002,58,Madurez Prematura
+V-10544,2025-04-05,Apartadó,San José Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.0,1029,965,64,Madurez Prematura
+V-10545,2025-04-04,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),3.5,923,906,17,Cicatriz/Mancha
+V-10546,2025-01-05,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),2.8,928,878,50,Daño Mecánico
+V-10547,2025-04-04,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.1,989,943,46,Madurez Prematura
+V-10548,2025-03-19,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),2.2,976,951,25,Daño Mecánico
+V-10549,2025-02-18,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.5,1051,975,76,Madurez Prematura
+V-10550,2025-05-29,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),3.8,929,901,28,Calibre No Conforme
+V-10551,2025-06-11,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),1.2,812,778,34,Calibre No Conforme
+V-10552,2025-05-11,Turbo,El Tesoro Turbo,TransUrabá,Tarde (12pm-8pm),5.2,852,761,91,Madurez Prematura
+V-10553,2025-02-20,Apartadó,San José Apartadó,TransUrabá,Tarde (12pm-8pm),1.9,933,869,64,Madurez Prematura
+V-10554,2025-03-20,Apartadó,El Tesoro Apartadó,TransUrabá,Mañana (4am-12pm),2.6,1038,1017,21,Calibre No Conforme
+V-10555,2025-05-30,Carepa,La Bonita Carepa,Logística Bananera,Mañana (4am-12pm),2.6,968,931,37,Cicatriz/Mancha
+V-10556,2025-04-23,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.5,1009,998,11,Cicatriz/Mancha
+V-10557,2025-01-18,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.1,895,791,104,Madurez Prematura
+V-10558,2025-04-07,Apartadó,La Esperanza Apartadó,Logística Bananera,Tarde (12pm-8pm),2.1,964,911,53,Cicatriz/Mancha
+V-10559,2025-02-05,Carepa,El Bananal Carepa,Logística Bananera,Tarde (12pm-8pm),2.9,809,757,52,Madurez Prematura
+V-10560,2025-03-26,Turbo,Villa Verde Turbo,TransUrabá,Mañana (4am-12pm),5.2,907,830,77,Calibre No Conforme
+V-10561,2025-05-06,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.6,898,878,20,Daño Mecánico
+V-10562,2025-05-14,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),3.9,809,794,15,Cicatriz/Mancha
+V-10563,2025-04-01,Turbo,La Esperanza Turbo,Rutas del Darién,Mañana (4am-12pm),4.5,867,794,73,Daño Mecánico
+V-10564,2025-05-08,Turbo,Villa Verde Turbo,TransUrabá,Mañana (4am-12pm),4.4,832,779,53,Cicatriz/Mancha
+V-10565,2025-03-16,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.0,939,929,10,Madurez Prematura
+V-10566,2025-05-25,Apartadó,El Bananal Apartadó,Logística Bananera,Noche (8pm-4am),2.1,910,878,32,Calibre No Conforme
+V-10567,2025-01-19,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.6,890,800,90,Madurez Prematura
+V-10568,2025-02-09,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.2,898,879,19,Cicatriz/Mancha
+V-10569,2025-03-09,Carepa,El Bananal Carepa,Rutas del Darién,Noche (8pm-4am),1.5,974,948,26,Calibre No Conforme
+V-10570,2025-06-12,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),3.2,883,866,17,Calibre No Conforme
+V-10571,2025-01-28,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.8,1038,982,56,Daño Mecánico
+V-10572,2025-03-20,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.6,1050,996,54,Daño Mecánico
+V-10573,2025-01-28,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.2,926,904,22,Daño Mecánico
+V-10574,2025-05-04,Turbo,San José Turbo,TransUrabá,Mañana (4am-12pm),5.3,1007,928,79,Cicatriz/Mancha
+V-10575,2025-01-06,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.3,850,781,69,Cicatriz/Mancha
+V-10576,2025-02-19,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.9,1025,958,67,Madurez Prematura
+V-10577,2025-02-16,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.7,878,853,25,Madurez Prematura
+V-10578,2025-01-09,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),6.2,1026,951,75,Daño Mecánico
+V-10579,2025-02-26,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.5,816,753,63,Madurez Prematura
+V-10580,2025-04-19,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.7,905,830,75,Cicatriz/Mancha
+V-10581,2025-03-06,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),1.3,945,931,14,Daño Mecánico
+V-10582,2025-02-09,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.7,1024,971,53,Cicatriz/Mancha
+V-10583,2025-01-13,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.0,1085,1045,40,Madurez Prematura
+V-10584,2025-04-23,Turbo,San José Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.2,936,877,59,Daño Mecánico
+V-10585,2025-03-09,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),4.3,984,903,81,Calibre No Conforme
+V-10586,2025-02-23,Turbo,El Bananal Turbo,TransUrabá,Noche (8pm-4am),4.9,896,835,61,Cicatriz/Mancha
+V-10587,2025-05-28,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.6,965,916,49,Cicatriz/Mancha
+V-10588,2025-01-23,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.0,953,927,26,Madurez Prematura
+V-10589,2025-02-20,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.0,802,761,41,Calibre No Conforme
+V-10590,2025-04-07,Turbo,San José Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.6,940,867,73,Calibre No Conforme
+V-10591,2025-03-17,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),2.9,944,930,14,Daño Mecánico
+V-10592,2025-02-28,Apartadó,La Bonita Apartadó,Rutas del Darién,Noche (8pm-4am),2.0,988,961,27,Daño Mecánico
+V-10593,2025-04-07,Apartadó,San José Apartadó,Logística Bananera,Tarde (12pm-8pm),1.7,1035,967,68,Calibre No Conforme
+V-10594,2025-02-03,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),2.4,988,941,47,Cicatriz/Mancha
+V-10595,2025-04-27,Carepa,El Tesoro Carepa,Logística Bananera,Mañana (4am-12pm),2.5,912,879,33,Calibre No Conforme
+V-10596,2025-02-11,Turbo,Villa Verde Turbo,Rutas del Darién,Noche (8pm-4am),5.3,997,937,60,Cicatriz/Mancha
+V-10597,2025-01-08,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),2.1,1025,987,38,Daño Mecánico
+V-10598,2025-05-23,Carepa,La Bonita Carepa,TransUrabá,Mañana (4am-12pm),1.4,827,799,28,Madurez Prematura
+V-10599,2025-01-28,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),4.0,910,887,23,Cicatriz/Mancha
+V-10600,2025-04-07,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),1.2,841,823,18,Madurez Prematura
+V-10601,2025-01-20,Apartadó,El Bananal Apartadó,Logística Bananera,Noche (8pm-4am),2.1,1052,1040,12,Madurez Prematura
+V-10602,2025-04-15,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.0,827,776,51,Cicatriz/Mancha
+V-10603,2025-01-27,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.4,869,799,70,Cicatriz/Mancha
+V-10604,2025-04-02,Turbo,San José Turbo,Rutas del Darién,Noche (8pm-4am),3.9,968,939,29,Madurez Prematura
+V-10605,2025-05-04,Carepa,El Tesoro Carepa,Rutas del Darién,Noche (8pm-4am),1.4,1036,1014,22,Daño Mecánico
+V-10606,2025-04-03,Carepa,El Bananal Carepa,Logística Bananera,Tarde (12pm-8pm),2.7,831,779,52,Madurez Prematura
+V-10607,2025-06-12,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),,846,818,28,Calibre No Conforme
+V-10608,2025-01-09,Apartadó,El Tesoro Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.7,868,826,42,Daño Mecánico
+V-10609,2025-01-18,Apartadó,Villa Verde Apartadó,Logística Bananera,Noche (8pm-4am),1.3,886,866,20,Madurez Prematura
+V-10610,2025-04-30,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),,853,822,31,Calibre No Conforme
+V-10611,2025-06-28,Turbo,Villa Verde Turbo,Rutas del Darién,Tarde (12pm-8pm),5.5,928,845,83,Madurez Prematura
+V-10612,2025-04-18,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),3.6,1045,1013,32,Cicatriz/Mancha
+V-10613,2025-02-22,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),2.4,822,811,11,Calibre No Conforme
+V-10614,2025-02-26,Carepa,La Esperanza Carepa,Rutas del Darién,Tarde (12pm-8pm),2.8,1067,1024,43,Daño Mecánico
+V-10615,2025-03-03,Carepa,La Bonita Carepa,Logística Bananera,Noche (8pm-4am),1.9,1024,999,25,Madurez Prematura
+V-10616,2025-06-26,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.5,955,936,19,Cicatriz/Mancha
+V-10617,2025-06-23,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),3.0,853,830,23,Daño Mecánico
+V-10618,2025-03-01,Apartadó,Villa Verde Apartadó,TransUrabá,Tarde (12pm-8pm),1.1,824,784,40,Madurez Prematura
+V-10619,2025-02-17,Turbo,El Bananal Turbo,Logística Bananera,Tarde (12pm-8pm),5.3,1077,975,102,Madurez Prematura
+V-10620,2025-05-26,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.3,895,820,75,Madurez Prematura
+V-10621,2025-04-23,Chigorodó,La Bonita Chigorodó,TransUrabá,Tarde (12pm-8pm),4.7,1061,954,107,Madurez Prematura
+V-10622,2025-06-05,Carepa,El Tesoro Carepa,Rutas del Darién,Tarde (12pm-8pm),1.5,968,929,39,Daño Mecánico
+V-10623,2025-04-14,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),4.1,854,774,80,Madurez Prematura
+V-10624,2025-04-27,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),4.1,913,834,79,Madurez Prematura
+V-10625,2025-04-15,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.9,827,761,66,Madurez Prematura
+V-10626,2025-05-04,Chigorodó,Villa Verde Chigorodó,TransUrabá,Mañana (4am-12pm),3.6,1081,1070,11,Madurez Prematura
+V-10627,2025-03-31,Apartadó,San José Apartadó,TransUrabá,Tarde (12pm-8pm),2.0,920,879,41,Calibre No Conforme
+V-10628,2025-01-18,Apartadó,La Bonita Apartadó,TransUrabá,Tarde (12pm-8pm),1.9,908,862,46,Madurez Prematura
+V-10629,2025-06-04,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),2.7,862,816,46,Daño Mecánico
+V-10630,2025-06-29,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.3,1045,982,63,Cicatriz/Mancha
+V-10631,2025-06-16,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),5.7,883,824,59,Cicatriz/Mancha
+V-10632,2025-04-27,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),5.2,1036,935,101,Madurez Prematura
+V-10633,2025-03-12,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),5.6,951,881,70,Daño Mecánico
+V-10634,2025-04-10,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.9,1094,1051,43,Madurez Prematura
+V-10635,2025-04-20,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),1.9,924,900,24,Daño Mecánico
+V-10636,2025-02-15,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.0,910,870,40,Daño Mecánico
+V-10637,2025-04-05,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.0,906,885,21,Daño Mecánico
+V-10638,2025-04-27,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.2,927,892,35,Cicatriz/Mancha
+V-10639,2025-05-09,Apartadó,San José Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.2,829,816,13,Cicatriz/Mancha
+V-10640,2025-03-05,Chigorodó,El Tesoro Chigorodó,TransUrabá,Mañana (4am-12pm),2.9,875,848,27,Calibre No Conforme
+V-10641,2025-03-12,Turbo,San José Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.6,820,770,50,Cicatriz/Mancha
+V-10642,2025-04-29,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),1.1,1001,966,35,Madurez Prematura
+V-10643,2025-04-15,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),5.2,962,890,72,Calibre No Conforme
+V-10644,2025-06-04,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.7,1070,982,88,Calibre No Conforme
+V-10645,2025-06-28,Apartadó,La Bonita Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.8,961,895,66,Calibre No Conforme
+V-10646,2025-04-16,Carepa,Villa Verde Carepa,Logística Bananera,Tarde (12pm-8pm),2.5,1087,1028,59,Madurez Prematura
+V-10647,2025-05-10,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),5.0,940,864,76,Calibre No Conforme
+V-10648,2025-06-19,Carepa,El Bananal Carepa,TransUrabá,Noche (8pm-4am),2.1,906,883,23,Madurez Prematura
+V-10649,2025-03-04,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),5.1,933,856,77,Calibre No Conforme
+V-10650,2025-06-13,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.1,1022,997,25,Cicatriz/Mancha
+V-10651,2025-05-13,Chigorodó,San José Chigorodó,TransUrabá,Tarde (12pm-8pm),4.9,817,723,94,Madurez Prematura
+V-10652,2025-06-28,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),1.3,1025,961,64,Cicatriz/Mancha
+V-10653,2025-04-22,Apartadó,El Tesoro Apartadó,Rutas del Darién,Mañana (4am-12pm),1.3,1072,1062,10,Cicatriz/Mancha
+V-10654,2025-05-22,Carepa,La Esperanza Carepa,TransUrabá,Mañana (4am-12pm),1.8,1093,1078,15,Calibre No Conforme
+V-10655,2025-03-10,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),1.3,847,815,32,Calibre No Conforme
+V-10656,2025-05-06,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.1,1001,969,32,Calibre No Conforme
+V-10657,2025-06-25,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),3.1,1081,1041,40,Daño Mecánico
+V-10658,2025-06-29,Carepa,La Esperanza Carepa,Logística Bananera,Noche (8pm-4am),2.1,943,908,35,Daño Mecánico
+V-10659,2025-03-02,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.8,1039,936,103,Madurez Prematura
+V-10660,2025-02-24,Carepa,San José Carepa,Logística Bananera,Mañana (4am-12pm),2.6,1048,1022,26,Cicatriz/Mancha
+V-10661,2025-02-21,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),3.9,933,898,35,Cicatriz/Mancha
+V-10662,2025-05-31,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.8,989,965,24,Madurez Prematura
+V-10663,2025-04-12,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),5.4,871,783,88,Madurez Prematura
+V-10664,2025-01-15,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Noche (8pm-4am),3.3,994,978,16,Cicatriz/Mancha
+V-10665,2025-02-11,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),4.7,880,809,71,Cicatriz/Mancha
+V-10666,2025-06-28,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),6.4,1007,915,92,Madurez Prematura
+V-10667,2025-06-15,Turbo,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),4.7,1025,963,62,Madurez Prematura
+V-10668,2025-06-12,Carepa,La Bonita Carepa,TransUrabá,Tarde (12pm-8pm),2.7,1028,968,60,Cicatriz/Mancha
+V-10669,2025-02-09,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.4,880,840,40,Daño Mecánico
+V-10670,2025-06-07,TURBO,San José Turbo,TransUrabá,Mañana (4am-12pm),4.7,953,888,65,Daño Mecánico
+V-10671,2025-02-24,Turbo,Villa Verde Turbo,Rutas del Darién,Noche (8pm-4am),4.8,1006,942,64,Cicatriz/Mancha
+V-10672,2025-05-09,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),6.3,947,850,97,Madurez Prematura
+V-10673,2025-01-23,carepa ,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.3,899,863,36,Cicatriz/Mancha
+V-10674,2025-04-05,Chigorodó,El Tesoro Chigorodó,TransUrabá,Tarde (12pm-8pm),3.7,991,948,43,Calibre No Conforme
+V-10675,2025-04-15,Carepa,El Tesoro Carepa,Logística Bananera,Noche (8pm-4am),1.3,965,929,36,Daño Mecánico
+V-10676,2025-04-06,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),4.1,1027,955,72,Madurez Prematura
+V-10677,2025-03-18,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),1.9,865,827,38,Cicatriz/Mancha
+V-10678,2025-01-02,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),3.0,984,974,10,Calibre No Conforme
+V-10679,2025-03-14,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.0,880,871,9,Madurez Prematura
+V-10680,2025-01-01,Carepa,Villa Verde Carepa,TransUrabá,Mañana (4am-12pm),2.4,1016,996,20,Madurez Prematura
+V-10681,2025-06-30,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),6.3,1079,1003,76,Cicatriz/Mancha
+V-10682,2025-01-29,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),1.8,972,922,50,Madurez Prematura
+V-10683,2025-04-08,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.0,1092,1040,52,Cicatriz/Mancha
+V-10684,2025-01-31,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),5.0,880,822,58,Cicatriz/Mancha
+V-10685,2025-02-02,Apartadó,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),2.4,853,820,33,Cicatriz/Mancha
+V-10686,2025-03-13,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),3.7,1001,990,11,Cicatriz/Mancha
+V-10687,2025-01-14,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.2,845,835,10,Madurez Prematura
+V-10688,2025-02-26,Apartadó,La Esperanza Apartadó,Logística Bananera,Tarde (12pm-8pm),2.6,1030,978,52,Calibre No Conforme
+V-10689,2025-01-12,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.4,958,887,71,Madurez Prematura
+V-10690,2025-02-01,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),4.4,847,792,55,Calibre No Conforme
+V-10691,2025-03-18,Carepa,El Tesoro Carepa,Rutas del Darién,Mañana (4am-12pm),1.9,993,973,20,Madurez Prematura
+V-10692,2025-06-16,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.7,961,914,47,Daño Mecánico
+V-10693,2025-03-04,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.7,1012,999,13,Daño Mecánico
+V-10694,2025-06-08,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),3.8,807,756,51,Daño Mecánico
+V-10695,2025-06-10,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.0,1045,1024,21,Madurez Prematura
+V-10696,2025-04-16,Chigorodó,Villa Verde Chigorodó,TransUrabá,Mañana (4am-12pm),3.5,811,782,29,Cicatriz/Mancha
+V-10697,2025-02-19,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),5.9,903,818,85,Madurez Prematura
+V-10698,2025-01-08,Turbo,La Bonita Turbo,Logística Bananera,Tarde (12pm-8pm),4.4,950,855,95,Madurez Prematura
+V-10699,2025-01-22,Carepa,La Bonita Carepa,TransUrabá,Tarde (12pm-8pm),2.0,825,771,54,Daño Mecánico
+V-10700,2025-04-23,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),4.1,1093,1001,92,Cicatriz/Mancha
+V-10701,2025-05-04,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),4.1,1046,971,75,Daño Mecánico
+V-10702,2025-03-17,Carepa,Villa Verde Carepa,TransUrabá,Mañana (4am-12pm),1.8,875,858,17,Cicatriz/Mancha
+V-10703,2025-01-14,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),4.7,964,895,69,Madurez Prematura
+V-10704,2025-06-08,Carepa,El Bananal Carepa,TransUrabá,Mañana (4am-12pm),1.5,802,783,19,Calibre No Conforme
+V-10705,2025-01-06,Apartadó,Villa Verde Apartadó,Logística Bananera,Mañana (4am-12pm),2.8,1097,1067,30,Daño Mecánico
+V-10706,2025-01-31,Carepa,El Bananal Carepa,TransUrabá,Noche (8pm-4am),2.2,1037,1000,37,Madurez Prematura
+V-10707,2025-03-12,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.7,821,795,26,Cicatriz/Mancha
+V-10708,2025-03-30,Apartadó,La Bonita Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.6,820,771,49,Daño Mecánico
+V-10709,2025-02-03,Turbo,Villa Verde Turbo,Rutas del Darién,Mañana (4am-12pm),6.0,886,821,65,Daño Mecánico
+V-10710,2025-01-02,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),6.3,904,815,89,Madurez Prematura
+V-10711,2025-04-23,Turbo,La Esperanza Turbo,TransUrabá,Tarde (12pm-8pm),4.8,912,824,88,Madurez Prematura
+V-10712,2025-01-12,Turbo,El Bananal Turbo,TransUrabá,Noche (8pm-4am),,957,873,84,Daño Mecánico
+V-10713,2025-01-31,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.5,959,897,62,Cicatriz/Mancha
+V-10714,2025-03-20,Carepa,La Esperanza Carepa,Logística Bananera,Mañana (4am-12pm),3.0,1085,1048,37,Madurez Prematura
+V-10715,2025-03-24,Apartadó,La Esperanza Apartadó,TransUrabá,Mañana (4am-12pm),1.1,869,847,22,Cicatriz/Mancha
+V-10716,2025-03-29,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),2.9,816,792,24,Cicatriz/Mancha
+V-10717,2025-02-27,Chigorodó,La Bonita Chigorodó,Logística Bananera,Noche (8pm-4am),3.1,968,951,17,Daño Mecánico
+V-10718,2025-06-22,Carepa,Villa Verde Carepa,Rutas del Darién,Tarde (12pm-8pm),1.2,822,765,57,Madurez Prematura
+V-10719,2025-01-17,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),1.9,933,892,41,Madurez Prematura
+V-10720,2025-01-21,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Noche (8pm-4am),2.9,1016,981,35,Calibre No Conforme
+V-10721,2025-03-24,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),4.6,952,894,58,Daño Mecánico
+V-10722,2025-04-20,Apartado,La Bonita Apartadó,Logística Bananera,Noche (8pm-4am),2.2,966,946,20,Madurez Prematura
+V-10723,2025-01-19,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),5.0,963,892,71,Madurez Prematura
+V-10724,2025-06-08,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),2.6,994,957,37,Cicatriz/Mancha
+V-10725,2025-01-15,Carepa,La Esperanza Carepa,Logística Bananera,Tarde (12pm-8pm),1.4,827,793,34,Madurez Prematura
+V-10726,2025-01-27,Chigorodó,El Tesoro Chigorodó,TransUrabá,Tarde (12pm-8pm),4.7,1031,929,102,Madurez Prematura
+V-10727,2025-06-09,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),6.0,838,773,65,Madurez Prematura
+V-10728,2025-05-19,Chigorodó,El Bananal Chigorodó,Logística Bananera,Mañana (4am-12pm),4.0,936,913,23,Cicatriz/Mancha
+V-10729,2025-03-06,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.7,1020,932,88,Cicatriz/Mancha
+V-10730,2025-01-25,Turbo,San José Turbo,Rutas del Darién,Mañana (4am-12pm),5.8,965,896,69,Daño Mecánico
+V-10731,2025-05-13,Chigorodó,El Bananal Chigorodó,TransUrabá,Mañana (4am-12pm),3.5,815,798,17,Cicatriz/Mancha
+V-10732,2025-05-27,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),3.7,938,901,37,Cicatriz/Mancha
+V-10733,2025-03-31,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.3,819,767,52,Cicatriz/Mancha
+V-10734,2025-01-01,Turbo,Villa Verde Turbo,Rutas del Darién,Noche (8pm-4am),3.9,1082,1067,15,Cicatriz/Mancha
+V-10735,2025-01-01,Carepa,La Esperanza Carepa,Logística Bananera,Mañana (4am-12pm),1.7,967,945,22,Cicatriz/Mancha
+V-10736,2025-06-27,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.2,928,873,55,Calibre No Conforme
+V-10737,2025-05-22,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),1.9,1038,1026,12,Cicatriz/Mancha
+V-10738,2025-02-14,Carepa,Villa Verde Carepa,Rutas del Darién,Noche (8pm-4am),1.4,849,837,12,Cicatriz/Mancha
+V-10739,2025-02-22,Turbo,Villa Verde Turbo,TransUrabá,Tarde (12pm-8pm),3.7,819,765,54,Cicatriz/Mancha
+V-10740,2025-06-23,Turbo,El Bananal Turbo,Logística Bananera,Noche (8pm-4am),5.6,928,871,57,Daño Mecánico
+V-10741,2025-06-14,Apartadó,La Bonita Apartadó,Logística Bananera,Noche (8pm-4am),,931,921,10,Daño Mecánico
+V-10742,2025-05-27,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.8,800,790,10,Cicatriz/Mancha
+V-10743,2025-04-03,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.6,931,849,82,Daño Mecánico
+V-10744,2025-03-13,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),5.5,878,809,69,Madurez Prematura
+V-10745,2025-04-22,Turbo,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),6.3,1024,953,71,Madurez Prematura
+V-10746,2025-04-01,Carepa,La Bonita Carepa,Rutas del Darién,Tarde (12pm-8pm),2.5,1099,1023,76,Madurez Prematura
+V-10747,2025-03-03,Carepa,San José Carepa,Rutas del Darién,Tarde (12pm-8pm),2.2,894,842,52,Daño Mecánico
+V-10748,2025-04-01,Turbo,Villa Verde Turbo,Rutas del Darién,Noche (8pm-4am),6.3,851,781,70,Daño Mecánico
+V-10749,2025-06-08,Apartadó,La Bonita Apartadó,Rutas del Darién,Mañana (4am-12pm),2.1,889,869,20,Madurez Prematura
+V-10750,2025-06-24,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.7,811,797,14,Madurez Prematura
+V-10751,2025-02-01,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.3,890,829,61,Calibre No Conforme
+V-10752,2025-05-21,Carepa,San José Carepa,Logística Bananera,Mañana (4am-12pm),2.9,887,872,15,Daño Mecánico
+V-10753,2025-02-04,Carepa,San José Carepa,TransUrabá,Tarde (12pm-8pm),2.9,952,896,56,Madurez Prematura
+V-10754,2025-03-31,Turbo,El Bananal Turbo,Rutas del Darién,Mañana (4am-12pm),5.8,1017,945,72,Daño Mecánico
+V-10755,2025-05-04,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),1.9,1072,1056,16,Daño Mecánico
+V-10756,2025-01-31,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),3.8,1056,1045,11,Daño Mecánico
+V-10757,2025-03-18,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),2.6,924,904,20,Cicatriz/Mancha
+V-10758,2025-06-02,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.8,1024,909,115,Madurez Prematura
+V-10759,2025-06-22,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.0,1040,1027,13,Madurez Prematura
+V-10760,2025-06-15,Apartadó,La Esperanza Apartadó,Logística Bananera,Tarde (12pm-8pm),1.2,1062,1007,55,Madurez Prematura
+V-10761,2025-01-01,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.2,893,857,36,Madurez Prematura
+V-10762,2025-04-06,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),5.6,924,834,90,Madurez Prematura
+V-10763,2025-06-01,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),4.0,808,791,17,Daño Mecánico
+V-10764,2025-04-01,Chigorodó,Villa Verde Chigorodó,TransUrabá,Tarde (12pm-8pm),3.6,916,870,46,Daño Mecánico
+V-10765,2025-02-01,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),6.5,852,758,94,Madurez Prematura
+V-10766,2025-01-10,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.1,865,849,16,Cicatriz/Mancha
+V-10767,2025-06-28,Apartadó,El Bananal Apartadó,Logística Bananera,Mañana (4am-12pm),1.1,890,861,29,Calibre No Conforme
+V-10768,2025-01-25,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Noche (8pm-4am),4.1,959,884,75,Calibre No Conforme
+V-10769,2025-05-24,Apartadó,El Bananal Apartadó,Logística Bananera,Tarde (12pm-8pm),1.3,900,858,42,Cicatriz/Mancha
+V-10770,2025-03-26,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),4.9,905,813,92,Madurez Prematura
+V-10771,2025-02-19,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Noche (8pm-4am),4.9,1015,940,75,Calibre No Conforme
+V-10772,2025-06-26,Carepa,Villa Verde Carepa,Rutas del Darién,Mañana (4am-12pm),1.1,859,838,21,Madurez Prematura
+V-10773,2025-02-20,Carepa,El Bananal Carepa,TransUrabá,Mañana (4am-12pm),1.4,972,940,32,Calibre No Conforme
+V-10774,2025-04-22,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),6.0,993,889,104,Madurez Prematura
+V-10775,2025-06-24,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.4,1073,1045,28,Daño Mecánico
+V-10776,2025-06-20,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.6,1055,961,94,Calibre No Conforme
+V-10777,2025-06-20,Chigorodó,La Bonita Chigorodó,TransUrabá,Mañana (4am-12pm),2.7,1037,1026,11,Cicatriz/Mancha
+V-10778,2025-03-25,Turbo,Villa Verde Turbo,TransUrabá,Mañana (4am-12pm),5.0,936,868,68,Calibre No Conforme
+V-10779,2025-01-10,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.7,862,806,56,Daño Mecánico
+V-10780,2025-05-22,Carepa,El Tesoro Carepa,Rutas del Darién,Mañana (4am-12pm),1.9,801,773,28,Daño Mecánico
+V-10781,2025-01-07,Turbo,La Esperanza Turbo,Rutas del Darién,Mañana (4am-12pm),5.0,981,901,80,Cicatriz/Mancha
+V-10782,2025-03-16,Chigorodó,La Esperanza Chigorodó,TransUrabá,Tarde (12pm-8pm),3.2,1033,976,57,Madurez Prematura
+V-10783,2025-06-17,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.6,914,863,51,Madurez Prematura
+V-10784,2025-01-04,Carepa,San José Carepa,Rutas del Darién,Tarde (12pm-8pm),2.3,887,827,60,Daño Mecánico
+V-10785,2025-01-20,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),5.2,877,813,64,Cicatriz/Mancha
+V-10786,2025-06-15,Turbo,Villa Verde Turbo,TransUrabá,Tarde (12pm-8pm),4.8,828,749,79,Madurez Prematura
+V-10787,2025-05-16,Chigorodó,La Bonita Chigorodó,TransUrabá,Tarde (12pm-8pm),3.1,922,869,53,Madurez Prematura
+V-10788,2025-03-04,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),1.0,1025,974,51,Cicatriz/Mancha
+V-10789,2025-02-17,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),6.3,905,840,65,Daño Mecánico
+V-10790,2025-03-21,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.0,941,928,13,Calibre No Conforme
+V-10791,2025-01-22,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.5,944,935,9,Calibre No Conforme
+V-10792,2025-05-23,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),4.2,915,844,71,Cicatriz/Mancha
+V-10793,2025-06-11,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,895,883,12,Madurez Prematura
+V-10794,2025-01-09,Carepa,San José Carepa,TransUrabá,Mañana (4am-12pm),1.3,1081,1054,27,Madurez Prematura
+V-10795,2025-03-08,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),3.6,814,805,9,Calibre No Conforme
+V-10796,2025-03-06,Turbo,Villa Verde Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.6,1097,1003,94,Cicatriz/Mancha
+V-10797,2025-03-01,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),2.0,830,776,54,Cicatriz/Mancha
+V-10798,2025-01-09,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.4,1089,1074,15,Madurez Prematura
+V-10799,2025-04-02,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.0,966,950,16,Daño Mecánico
+V-10800,2025-02-15,Chigorodó,San José Chigorodó,Logística Bananera,Mañana (4am-12pm),3.3,1094,1054,40,Calibre No Conforme
+V-10801,2025-01-17,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),3.4,954,917,37,Madurez Prematura
+V-10802,2025-01-26,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),5.9,1011,938,73,Calibre No Conforme
+V-10803,2025-06-14,Carepa,La Bonita Carepa,TransUrabá,Noche (8pm-4am),2.0,1060,1025,35,Cicatriz/Mancha
+V-10804,2025-06-17,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),2.5,930,919,11,Calibre No Conforme
+V-10805,2025-01-24,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),1.0,936,909,27,Calibre No Conforme
+V-10806,2025-03-23,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),6.1,932,860,72,Cicatriz/Mancha
+V-10807,2025-03-21,Turbo,La Bonita Turbo,Logística Bananera,Noche (8pm-4am),5.8,1053,990,63,Daño Mecánico
+V-10808,2025-06-14,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.3,1054,1000,54,Madurez Prematura
+V-10809,2025-05-13,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.8,1036,1012,24,Daño Mecánico
+V-10810,2025-03-13,Apartadó,La Esperanza Apartadó,Logística Bananera,Tarde (12pm-8pm),2.2,1027,976,51,Daño Mecánico
+V-10811,2025-01-01,Chigorodó,San José Chigorodó,TransUrabá,Tarde (12pm-8pm),3.0,880,829,51,Cicatriz/Mancha
+V-10812,2025-06-29,Chigorodó,San José Chigorodó,TransUrabá,Mañana (4am-12pm),2.8,1005,988,17,Calibre No Conforme
+V-10813,2025-04-05,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),2.7,992,956,36,Daño Mecánico
+V-10814,2025-01-29,Carepa,La Bonita Carepa,TransUrabá,Noche (8pm-4am),2.3,875,855,20,Cicatriz/Mancha
+V-10815,2025-03-22,Carepa,La Bonita Carepa,Rutas del Darién,Noche (8pm-4am),1.8,819,798,21,Daño Mecánico
+V-10816,2025-02-10,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.6,883,849,34,Calibre No Conforme
+V-10817,2025-05-02,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.9,994,929,65,Madurez Prematura
+V-10818,2025-04-17,Carepa,El Tesoro Carepa,TransUrabá,Tarde (12pm-8pm),1.4,821,764,57,Cicatriz/Mancha
+V-10819,2025-04-21,Chigorodó,San José Chigorodó,Logística Bananera,Mañana (4am-12pm),3.5,971,935,36,Madurez Prematura
+V-10820,2025-05-12,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),2.6,822,805,17,Calibre No Conforme
+V-10821,2025-02-23,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),3.0,800,789,11,Cicatriz/Mancha
+V-10822,2025-05-30,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),4.5,864,810,54,Calibre No Conforme
+V-10823,2025-01-16,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.5,949,905,44,Madurez Prematura
+V-10824,2025-03-07,Turbo,San José Turbo,TransUrabá,Tarde (12pm-8pm),3.8,855,820,35,Daño Mecánico
+V-10825,2025-05-24,Apartadó,Villa Verde Apartadó,TransUrabá,Mañana (4am-12pm),2.2,1005,985,20,Madurez Prematura
+V-10826,2025-02-23,Apartadó,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),2.5,1001,979,22,Cicatriz/Mancha
+V-10827,2025-01-14,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.4,1090,1044,46,Daño Mecánico
+V-10828,2025-01-08,Turbo,La Esperanza Turbo,Rutas del Darién,Mañana (4am-12pm),4.3,945,885,60,Cicatriz/Mancha
+V-10829,2025-01-27,Carepa,El Tesoro Carepa,Logística Bananera,Noche (8pm-4am),1.1,1032,1016,16,Madurez Prematura
+V-10830,2025-03-22,Apartadó,El Tesoro Apartadó,Logística Bananera,Noche (8pm-4am),1.4,861,843,18,Cicatriz/Mancha
+V-10831,2025-06-05,Apartadó,La Bonita Apartadó,TransUrabá,Tarde (12pm-8pm),3.0,1032,977,55,Cicatriz/Mancha
+V-10832,2025-05-08,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),2.2,898,843,55,Cicatriz/Mancha
+V-10833,2025-05-06,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),6.4,1096,1023,73,Calibre No Conforme
+V-10834,2025-03-18,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.5,828,740,88,Madurez Prematura
+V-10835,2025-05-29,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),2.9,893,877,16,Calibre No Conforme
+V-10836,2025-01-11,Apartadó,San José Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.1,1028,1014,14,Daño Mecánico
+V-10837,2025-05-16,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),3.8,943,908,35,Madurez Prematura
+V-10838,2025-06-04,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.5,1003,967,36,Daño Mecánico
+V-10839,2025-05-28,Apartadó,La Bonita Apartadó,Logística Bananera,Noche (8pm-4am),1.8,943,910,33,Calibre No Conforme
+V-10840,2025-03-11,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),2.5,859,844,15,Madurez Prematura
+V-10841,2025-01-24,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),2.9,915,885,30,Calibre No Conforme
+V-10842,2025-05-10,Carepa,El Bananal Carepa,TransUrabá,Tarde (12pm-8pm),1.0,837,801,36,Madurez Prematura
+V-10843,2025-02-12,Apartadó,San José Apartadó,TransUrabá,Noche (8pm-4am),2.2,801,790,11,Calibre No Conforme
+V-10844,2025-06-01,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.5,944,904,40,Calibre No Conforme
+V-10845,2025-01-19,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.1,1023,1011,12,Daño Mecánico
+V-10846,2025-05-12,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),5.3,846,779,67,Calibre No Conforme
+V-10847,2025-01-19,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),2.0,1085,1072,13,Cicatriz/Mancha
+V-10848,2025-02-06,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.8,989,978,11,Madurez Prematura
+V-10849,2025-01-12,Carepa,La Esperanza Carepa,TransUrabá,Tarde (12pm-8pm),1.9,930,879,51,Cicatriz/Mancha
+V-10850,2025-01-31,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),4.9,920,844,76,Cicatriz/Mancha
+V-10851,2025-05-23,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.6,942,909,33,Cicatriz/Mancha
+V-10852,2025-05-26,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.3,831,784,47,Cicatriz/Mancha
+V-10853,2025-01-31,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Noche (8pm-4am),4.4,943,861,82,Daño Mecánico
+V-10854,2025-05-29,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),2.8,924,896,28,Daño Mecánico
+V-10855,2025-05-29,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),2.9,819,808,11,Daño Mecánico
+V-10856,2025-02-20,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),4.3,986,918,68,Calibre No Conforme
+V-10857,2025-06-20,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Mañana (4am-12pm),4.7,922,858,64,Daño Mecánico
+V-10858,2025-03-15,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),1.8,1036,1011,25,Calibre No Conforme
+V-10859,2025-01-22,Apartadó,El Bananal Apartadó,TransUrabá,Noche (8pm-4am),1.1,1056,1024,32,Madurez Prematura
+V-10860,2025-04-21,Carepa,San José Carepa,TransUrabá,Tarde (12pm-8pm),1.8,1076,1001,75,Cicatriz/Mancha
+V-10861,2025-02-07,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),,1028,981,47,Madurez Prematura
+V-10862,2025-03-27,Carepa,La Bonita Carepa,TransUrabá,Tarde (12pm-8pm),1.8,1093,1029,64,Madurez Prematura
+V-10863,2025-03-25,Carepa,El Bananal Carepa,TransUrabá,Mañana (4am-12pm),1.6,1022,983,39,Cicatriz/Mancha
+V-10864,2025-04-20,Apartadó,La Bonita Apartadó,Rutas del Darién,Tarde (12pm-8pm),,1010,954,56,Daño Mecánico
+V-10865,2025-01-14,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),6.4,1024,951,73,Cicatriz/Mancha
+V-10866,2025-03-14,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),4.4,1012,915,97,Madurez Prematura
+V-10867,2025-05-15,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),2.5,1076,1043,33,Daño Mecánico
+V-10868,2025-02-16,Apartadó,El Tesoro Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.2,1078,1027,51,Madurez Prematura
+V-10869,2025-02-06,Carepa,La Bonita Carepa,Rutas del Darién,Noche (8pm-4am),1.4,1053,1023,30,Daño Mecánico
+V-10870,2025-03-05,Chigorodó,El Tesoro Chigorodó,TransUrabá,Noche (8pm-4am),3.6,954,933,21,Calibre No Conforme
+V-10871,2025-03-05,Apartadó,La Esperanza Apartadó,TransUrabá,Noche (8pm-4am),2.0,805,777,28,Daño Mecánico
+V-10872,2025-03-14,Turbo,El Bananal Turbo,Logística Bananera,Tarde (12pm-8pm),5.0,1071,969,102,Madurez Prematura
+V-10873,2025-06-03,Carepa,San José Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.0,1047,1019,28,Calibre No Conforme
+V-10874,2025-02-15,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.7,994,927,67,Calibre No Conforme
+V-10875,2025-04-11,Carepa,La Esperanza Carepa,Logística Bananera,Tarde (12pm-8pm),1.8,927,886,41,Madurez Prematura
+V-10876,2025-02-03,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.6,861,779,82,Madurez Prematura
+V-10877,2025-06-03,Carepa,El Bananal Carepa,TransUrabá,Tarde (12pm-8pm),1.3,1032,981,51,Calibre No Conforme
+V-10878,2025-04-26,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.5,1039,1008,31,Calibre No Conforme
+V-10879,2025-04-07,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Tarde (12pm-8pm),2.6,819,775,44,Cicatriz/Mancha
+V-10880,2025-04-04,Apartadó,San José Apartadó,Logística Bananera,Mañana (4am-12pm),1.7,962,938,24,Madurez Prematura
+V-10881,2025-01-30,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),4.9,844,785,59,Calibre No Conforme
+V-10882,2025-06-14,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.2,1057,1038,19,Daño Mecánico
+V-10883,2025-04-09,Chigorodó,San José Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.1,928,918,10,Calibre No Conforme
+V-10884,2025-01-23,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),5.8,938,860,78,Daño Mecánico
+V-10885,2025-04-19,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.7,1069,960,109,Madurez Prematura
+V-10886,2025-02-01,Turbo,San José Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.1,815,762,53,Madurez Prematura
+V-10887,2025-05-30,Chigorodo,La Esperanza Chigorodó,TransUrabá,Tarde (12pm-8pm),4.9,840,759,81,Madurez Prematura
+V-10888,2025-01-28,Apartadó,El Tesoro Apartadó,Rutas del Darién,Noche (8pm-4am),,841,830,11,Daño Mecánico
+V-10889,2025-06-28,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.1,889,839,50,Madurez Prematura
+V-10890,2025-05-07,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),1.0,824,808,16,Cicatriz/Mancha
+V-10891,2025-05-10,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),2.3,988,922,66,Madurez Prematura
+V-10892,2025-03-23,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.9,1025,960,65,Cicatriz/Mancha
+V-10893,2025-01-04,Apartadó,El Tesoro Apartadó,Rutas del Darién,Mañana (4am-12pm),2.8,884,874,10,Daño Mecánico
+V-10894,2025-01-02,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),2.0,1052,1011,41,Cicatriz/Mancha
+V-10895,2025-04-29,Chigorodó,San José Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.8,870,791,79,Madurez Prematura
+V-10896,2025-03-01,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.2,993,967,26,Cicatriz/Mancha
+V-10897,2025-06-21,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.6,936,924,12,Cicatriz/Mancha
+V-10898,2025-02-27,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.3,971,947,24,Madurez Prematura
+V-10899,2025-06-20,Carepa,El Tesoro Carepa,Logística Bananera,Tarde (12pm-8pm),2.4,823,778,45,Daño Mecánico
+V-10900,2025-05-17,Carepa,La Bonita Carepa,TransUrabá,Mañana (4am-12pm),1.1,1063,1036,27,Cicatriz/Mancha
+V-10901,2025-04-08,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),4.5,1024,953,71,Daño Mecánico
+V-10902,2025-05-27,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.1,815,789,26,Calibre No Conforme
+V-10903,2025-04-23,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.3,920,894,26,Madurez Prematura
+V-10904,2025-04-28,Apartadó,La Esperanza Apartadó,Logística Bananera,Tarde (12pm-8pm),2.9,1003,941,62,Cicatriz/Mancha
+V-10905,2025-04-06,Carepa,Villa Verde Carepa,Rutas del Darién,Mañana (4am-12pm),2.4,992,978,14,Calibre No Conforme
+V-10906,2025-01-31,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.1,1033,1003,30,Madurez Prematura
+V-10907,2025-03-01,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),5.4,1060,989,71,Cicatriz/Mancha
+V-10908,2025-04-02,Turbo,Villa Verde Turbo,TransUrabá,Tarde (12pm-8pm),6.1,899,799,100,Madurez Prematura
+V-10909,2025-01-31,Carepa,El Tesoro Carepa,Rutas del Darién,Mañana (4am-12pm),1.6,993,959,34,Madurez Prematura
+V-10910,2025-01-07,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.3,1019,995,24,Cicatriz/Mancha
+V-10911,2025-01-23,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),2.6,1058,1018,40,Madurez Prematura
+V-10912,2025-04-30,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),3.4,912,897,15,Cicatriz/Mancha
+V-10913,2025-06-05,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.3,911,858,53,Madurez Prematura
+V-10914,2025-03-02,Carepa,Villa Verde Carepa,Rutas del Darién,Noche (8pm-4am),2.9,853,825,28,Daño Mecánico
+V-10915,2025-02-25,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.7,888,805,83,Madurez Prematura
+V-10916,2025-05-15,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.2,848,800,48,Madurez Prematura
+V-10917,2025-05-18,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),3.8,926,905,21,Madurez Prematura
+V-10918,2025-05-26,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),4.6,1027,941,86,Cicatriz/Mancha
+V-10919,2025-04-07,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),3.8,912,897,15,Cicatriz/Mancha
+V-10920,2025-04-20,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.9,1046,956,90,Cicatriz/Mancha
+V-10921,2025-04-13,Apartadó,El Tesoro Apartadó,Logística Bananera,Tarde (12pm-8pm),1.3,875,840,35,Daño Mecánico
+V-10922,2025-04-12,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.7,932,844,88,Madurez Prematura
+V-10923,2025-01-17,Chigorodó,San José Chigorodó,TransUrabá,Noche (8pm-4am),3.4,913,882,31,Daño Mecánico
+V-10924,2025-06-25,Carepa,El Tesoro Carepa,TransUrabá,Tarde (12pm-8pm),2.2,1019,952,67,Calibre No Conforme
+V-10925,2025-01-07,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),2.5,1029,984,45,Daño Mecánico
+V-10926,2025-06-10,Carepa,Villa Verde Carepa,TransUrabá,Tarde (12pm-8pm),1.1,1046,990,56,Cicatriz/Mancha
+V-10927,2025-02-26,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.7,886,844,42,Daño Mecánico
+V-10928,2025-03-09,Apartadó,La Bonita Apartadó,Logística Bananera,Noche (8pm-4am),2.5,839,810,29,Madurez Prematura
+V-10929,2025-05-02,Chigorodó,La Esperanza Chigorodó,TransUrabá,Tarde (12pm-8pm),4.3,900,810,90,Madurez Prematura
+V-10930,2025-01-13,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.9,1088,1031,57,Madurez Prematura
+V-10931,2025-04-12,Carepa,Villa Verde Carepa,Logística Bananera,Tarde (12pm-8pm),1.5,1082,1029,53,Calibre No Conforme
+V-10932,2025-05-15,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),4.8,1077,953,124,Madurez Prematura
+V-10933,2025-04-28,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.2,986,933,53,Madurez Prematura
+V-10934,2025-06-07,Carepa,El Bananal Carepa,Rutas del Darién,Tarde (12pm-8pm),2.4,822,778,44,Daño Mecánico
+V-10935,2025-05-29,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),5.0,802,747,55,Madurez Prematura
+V-10936,2025-01-06,Carepa,San José Carepa,Logística Bananera,Tarde (12pm-8pm),2.6,1093,1029,64,Cicatriz/Mancha
+V-10937,2025-06-03,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.8,908,868,40,Cicatriz/Mancha
+V-10938,2025-06-29,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),4.6,900,820,80,Calibre No Conforme
+V-10939,2025-06-25,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),3.0,830,786,44,Cicatriz/Mancha
+V-10940,2025-03-11,Turbo,La Esperanza Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),3.6,1000,977,23,Daño Mecánico
+V-10941,2025-02-27,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.1,846,835,11,Calibre No Conforme
+V-10942,2025-01-13,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),3.8,879,856,23,Madurez Prematura
+V-10943,2025-04-24,Carepa,San José Carepa,TransUrabá,Noche (8pm-4am),1.1,834,822,12,Cicatriz/Mancha
+V-10944,2025-04-12,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),2.8,1049,1037,12,Calibre No Conforme
+V-10945,2025-03-06,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),1.2,943,921,22,Madurez Prematura
+V-10946,2025-04-09,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.3,1024,1008,16,Madurez Prematura
+V-10947,2025-06-17,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),1.2,1097,1067,30,Daño Mecánico
+V-10948,2025-04-20,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.7,929,875,54,Madurez Prematura
+V-10949,2025-05-13,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.7,979,948,31,Daño Mecánico
+V-10950,2025-01-03,Chigorodo,La Esperanza Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),5.0,807,732,75,Madurez Prematura
+V-10951,2025-03-11,Turbo,La Esperanza Turbo,Rutas del Darién,Tarde (12pm-8pm),5.5,890,795,95,Madurez Prematura
+V-10952,2025-03-03,Carepa,La Esperanza Carepa,Logística Bananera,Noche (8pm-4am),1.0,923,904,19,Madurez Prematura
+V-10953,2025-06-17,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),6.1,835,760,75,Daño Mecánico
+V-10954,2025-02-15,Chigorodó,La Bonita Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.8,1039,970,69,Cicatriz/Mancha
+V-10955,2025-04-25,Carepa,El Tesoro Carepa,Rutas del Darién,Mañana (4am-12pm),2.6,1073,1057,16,Calibre No Conforme
+V-10956,2025-02-11,Apartadó,La Esperanza Apartadó,Rutas del Darién,Mañana (4am-12pm),1.5,987,975,12,Daño Mecánico
+V-10957,2025-06-10,Chigorodó,La Bonita Chigorodó,Logística Bananera,Tarde (12pm-8pm),2.5,1028,986,42,Daño Mecánico
+V-10958,2025-04-23,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.4,1093,1069,24,Calibre No Conforme
+V-10959,2025-02-17,Turbo,El Bananal Turbo,TransUrabá,Noche (8pm-4am),4.3,829,779,50,Cicatriz/Mancha
+V-10960,2025-02-24,Apartadó,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),2.1,857,827,30,Madurez Prematura
+V-10961,2025-04-03,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),3.9,1057,1007,50,Daño Mecánico
+V-10962,2025-03-20,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.1,929,904,25,Madurez Prematura
+V-10963,2025-03-07,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,1068,1045,23,Daño Mecánico
+V-10964,2025-05-03,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),5.2,942,861,81,Madurez Prematura
+V-10965,2025-04-23,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.5,913,829,84,Madurez Prematura
+V-10966,2025-04-12,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.8,1067,1046,21,Cicatriz/Mancha
+V-10967,2025-05-21,Apartadó,El Bananal Apartadó,TransUrabá,Noche (8pm-4am),2.2,821,793,28,Madurez Prematura
+V-10968,2025-01-07,Apartadó,La Esperanza Apartadó,Logística Bananera,Mañana (4am-12pm),2.5,1088,1075,13,Daño Mecánico
+V-10969,2025-02-22,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.0,980,943,37,Calibre No Conforme
+V-10970,2025-05-14,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),5.8,1045,942,103,Madurez Prematura
+V-10971,2025-05-01,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),4.8,956,891,65,Cicatriz/Mancha
+V-10972,2025-02-20,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.8,884,826,58,Calibre No Conforme
+V-10973,2025-03-05,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.6,1046,1009,37,Madurez Prematura
+V-10974,2025-02-08,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),2.6,1026,1008,18,Calibre No Conforme
+V-10975,2025-06-28,Chigorodó,San José Chigorodó,TransUrabá,Noche (8pm-4am),4.4,869,797,72,Madurez Prematura
+V-10976,2025-01-27,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.1,855,846,9,Cicatriz/Mancha
+V-10977,2025-06-30,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.3,941,912,29,Madurez Prematura
+V-10978,2025-03-24,Apartadó,El Tesoro Apartadó,Logística Bananera,Mañana (4am-12pm),2.4,955,941,14,Madurez Prematura
+V-10979,2025-03-04,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.1,860,827,33,Calibre No Conforme
+V-10980,2025-04-30,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),4.0,1028,1011,17,Daño Mecánico
+V-10981,2025-02-12,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.0,916,905,11,Cicatriz/Mancha
+V-10982,2025-02-04,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.8,1065,1021,44,Daño Mecánico
+V-10983,2025-04-16,Carepa,El Tesoro Carepa,Rutas del Darién,Noche (8pm-4am),1.9,878,855,23,Madurez Prematura
+V-10984,2025-03-03,Carepa,La Esperanza Carepa,TransUrabá,Noche (8pm-4am),1.9,1099,1070,29,Madurez Prematura
+V-10985,2025-06-07,Turbo,San José Turbo,Rutas del Darién,Tarde (12pm-8pm),4.1,940,838,102,Madurez Prematura
+V-10986,2025-05-10,Turbo,La Bonita Turbo,Rutas del Darién,Noche (8pm-4am),5.7,826,759,67,Calibre No Conforme
+V-10987,2025-02-12,Chigorodó,La Esperanza Chigorodó,TransUrabá,Tarde (12pm-8pm),3.3,966,907,59,Daño Mecánico
+V-10988,2025-03-19,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),6.3,900,804,96,Madurez Prematura
+V-10989,2025-04-12,Turbo,La Esperanza Turbo,Logística Bananera,Noche (8pm-4am),6.2,818,754,64,Madurez Prematura
+V-10990,2025-03-21,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),5.2,896,814,82,Madurez Prematura
+V-10991,2025-02-07,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.8,1031,926,105,Madurez Prematura
+V-10992,2025-03-08,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.0,859,816,43,Calibre No Conforme
+V-10993,2025-06-05,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.3,839,761,78,Madurez Prematura
+V-10994,2025-03-02,Turbo,San José Turbo,TransUrabá,Tarde (12pm-8pm),4.4,869,774,95,Madurez Prematura
+V-10995,2025-01-29,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.0,829,812,17,Calibre No Conforme
+V-10996,2025-04-05,Apartadó,San José Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.4,912,871,41,Calibre No Conforme
+V-10997,2025-01-28,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),5.0,906,802,104,Madurez Prematura
+V-10998,2025-02-06,Turbo,Villa Verde Turbo,TransUrabá,Tarde (12pm-8pm),4.1,970,859,111,Madurez Prematura
+V-10999,2025-06-25,Carepa,La Bonita Carepa,TransUrabá,Tarde (12pm-8pm),1.8,1099,1040,59,Cicatriz/Mancha
+V-11000,2025-03-18,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),5.3,814,721,93,Madurez Prematura
+V-11001,2025-04-12,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.7,929,900,29,Cicatriz/Mancha
+V-11002,2025-06-24,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.4,968,935,33,Calibre No Conforme
+V-11003,2025-05-01,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),6.3,1066,992,74,Madurez Prematura
+V-11004,2025-02-06,Carepa,El Tesoro Carepa,Rutas del Darién,Noche (8pm-4am),2.6,1002,981,21,Madurez Prematura
+V-11005,2025-06-25,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.3,1086,1016,70,Daño Mecánico
+V-11006,2025-04-08,Turbo,El Bananal Turbo,Logística Bananera,Noche (8pm-4am),5.9,1046,954,92,Madurez Prematura
+V-11007,2025-01-29,Turbo,San José Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.8,1014,927,87,Calibre No Conforme
+V-11008,2025-05-25,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),4.2,998,921,77,Calibre No Conforme
+V-11009,2025-05-03,Apartadó,San José Apartadó,TransUrabá,Mañana (4am-12pm),3.0,1086,1047,39,Cicatriz/Mancha
+V-11010,2025-04-05,Carepa,La Bonita Carepa,Rutas del Darién,Mañana (4am-12pm),1.1,826,802,24,Calibre No Conforme
+V-11011,2025-05-30,Carepa,San José Carepa,Rutas del Darién,Noche (8pm-4am),2.1,1083,1069,14,Cicatriz/Mancha
+V-11012,2025-02-28,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),4.3,836,771,65,Daño Mecánico
+V-11013,2025-02-24,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),1.8,921,894,27,Daño Mecánico
+V-11014,2025-01-05,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),1.2,1088,1077,11,Daño Mecánico
+V-11015,2025-04-06,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Mañana (4am-12pm),3.1,1009,986,23,Daño Mecánico
+V-11016,2025-05-23,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.2,901,855,46,Daño Mecánico
+V-11017,2025-02-26,Turbo,San José Turbo,TransUrabá,Noche (8pm-4am),6.2,1050,956,94,Daño Mecánico
+V-11018,2025-01-28,Turbo,San José Turbo,TransUrabá,Tarde (12pm-8pm),5.5,990,875,115,Madurez Prematura
+V-11019,2025-01-07,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,977,944,33,Madurez Prematura
+V-11020,2025-03-26,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.1,907,825,82,Madurez Prematura
+V-11021,2025-01-02,Turbo,El Tesoro Turbo,TransUrabá,Noche (8pm-4am),4.9,906,843,63,Calibre No Conforme
+V-11022,2025-06-09,Carepa,El Bananal Carepa,Logística Bananera,Mañana (4am-12pm),2.7,872,859,13,Cicatriz/Mancha
+V-11023,2025-05-21,Apartado,Villa Verde Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.8,1066,1051,15,Calibre No Conforme
+V-11024,2025-06-24,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.8,969,939,30,Madurez Prematura
+V-11025,2025-06-24,Chigorodó,La Bonita Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.1,1009,953,56,Cicatriz/Mancha
+V-11026,2025-05-06,Apartadó,La Bonita Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.3,924,872,52,Cicatriz/Mancha
+V-11027,2025-03-14,Carepa,San José Carepa,TransUrabá,Mañana (4am-12pm),2.7,1096,1076,20,Calibre No Conforme
+V-11028,2025-03-02,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.1,812,743,69,Madurez Prematura
+V-11029,2025-04-29,Turbo,El Tesoro Turbo,TransUrabá,Tarde (12pm-8pm),3.9,1004,951,53,Madurez Prematura
+V-11030,2025-03-24,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),3.0,955,928,27,Cicatriz/Mancha
+V-11031,2025-02-10,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Noche (8pm-4am),4.6,951,878,73,Calibre No Conforme
+V-11032,2025-03-08,Apartadó,El Bananal Apartadó,Logística Bananera,Mañana (4am-12pm),1.9,1065,1046,19,Madurez Prematura
+V-11033,2025-05-18,Apartadó,El Tesoro Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.3,1064,997,67,Madurez Prematura
+V-11034,2025-06-05,carepa ,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.3,820,771,49,Daño Mecánico
+V-11035,2025-02-09,Carepa,Villa Verde Carepa,Rutas del Darién,Mañana (4am-12pm),2.0,980,954,26,Daño Mecánico
+V-11036,2025-04-07,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),3.6,824,787,37,Madurez Prematura
+V-11037,2025-01-11,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),5.5,997,924,73,Madurez Prematura
+V-11038,2025-01-29,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),6.5,828,748,80,Madurez Prematura
+V-11039,2025-06-19,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.2,1046,1029,17,Daño Mecánico
+V-11040,2025-04-02,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),2.4,952,910,42,Madurez Prematura
+V-11041,2025-06-07,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),,915,886,29,Madurez Prematura
+V-11042,2025-02-11,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.9,852,837,15,Calibre No Conforme
+V-11043,2025-06-06,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.8,818,765,53,Calibre No Conforme
+V-11044,2025-06-13,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,1087,1046,41,Madurez Prematura
+V-11045,2025-06-17,Apartadó,El Bananal Apartadó,Logística Bananera,Tarde (12pm-8pm),2.2,1100,1025,75,Madurez Prematura
+V-11046,2025-06-06,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.4,869,824,45,Calibre No Conforme
+V-11047,2025-03-02,Apartadó,La Esperanza Apartadó,Logística Bananera,Mañana (4am-12pm),1.6,855,823,32,Cicatriz/Mancha
+V-11048,2025-03-15,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),2.8,920,901,19,Madurez Prematura
+V-11049,2025-03-20,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.6,1092,1066,26,Daño Mecánico
+V-11050,2025-02-02,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),3.7,874,862,12,Madurez Prematura
+V-11051,2025-01-25,Turbo,San José Turbo,Rutas del Darién,Noche (8pm-4am),4.9,834,781,53,Daño Mecánico
+V-11052,2025-04-24,Apartadó,La Bonita Apartadó,TransUrabá,Mañana (4am-12pm),1.1,857,841,16,Calibre No Conforme
+V-11053,2025-06-17,Turbo,San José Turbo,TransUrabá,Tarde (12pm-8pm),4.3,833,756,77,Madurez Prematura
+V-11054,2025-05-21,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),2.5,1002,971,31,Madurez Prematura
+V-11055,2025-02-09,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),3.6,937,924,13,Daño Mecánico
+V-11056,2025-04-01,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),3.8,864,846,18,Daño Mecánico
+V-11057,2025-06-09,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),3.4,894,868,26,Calibre No Conforme
+V-11058,2025-02-14,Turbo,Villa Verde Turbo,TransUrabá,Mañana (4am-12pm),4.3,824,760,64,Madurez Prematura
+V-11059,2025-02-07,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.8,894,841,53,Cicatriz/Mancha
+V-11060,2025-01-24,Turbo,San José Turbo,Rutas del Darién,Noche (8pm-4am),5.2,880,821,59,Cicatriz/Mancha
+V-11061,2025-06-30,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),6.3,857,805,52,Madurez Prematura
+V-11062,2025-05-06,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),4.3,1048,971,77,Daño Mecánico
+V-11063,2025-06-26,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),,819,768,51,Cicatriz/Mancha
+V-11064,2025-04-28,Carepa,El Tesoro Carepa,TransUrabá,Mañana (4am-12pm),1.7,897,866,31,Madurez Prematura
+V-11065,2025-02-03,Turbo,San José Turbo,TransUrabá,Mañana (4am-12pm),4.9,1079,1010,69,Calibre No Conforme
+V-11066,2025-01-20,Carepa,San José Carepa,TransUrabá,Mañana (4am-12pm),1.7,975,941,34,Daño Mecánico
+V-11067,2025-06-18,Turbo,El Tesoro Turbo,TransUrabá,Noche (8pm-4am),5.4,1080,997,83,Calibre No Conforme
+V-11068,2025-05-08,Apartadó,La Esperanza Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.4,1049,988,61,Cicatriz/Mancha
+V-11069,2025-02-14,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),1.3,834,816,18,Madurez Prematura
+V-11070,2025-04-02,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),2.2,917,904,13,Cicatriz/Mancha
+V-11071,2025-03-11,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),1.8,1016,998,18,Daño Mecánico
+V-11072,2025-04-10,Carepa,El Bananal Carepa,Logística Bananera,Mañana (4am-12pm),2.0,962,925,37,Calibre No Conforme
+V-11073,2025-05-09,Turbo,El Tesoro Turbo,Logística Bananera,Mañana (4am-12pm),5.3,1008,945,63,Cicatriz/Mancha
+V-11074,2025-02-21,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.8,920,876,44,Cicatriz/Mancha
+V-11075,2025-02-20,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.5,1025,957,68,Calibre No Conforme
+V-11076,2025-06-18,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),2.0,902,874,28,Daño Mecánico
+V-11077,2025-05-25,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),4.8,842,777,65,Calibre No Conforme
+V-11078,2025-05-06,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),4.7,975,897,78,Calibre No Conforme
+V-11079,2025-04-29,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.7,915,865,50,Cicatriz/Mancha
+V-11080,2025-06-23,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),,998,984,14,Cicatriz/Mancha
+V-11081,2025-03-12,Chigorodó,San José Chigorodó,TransUrabá,Noche (8pm-4am),3.1,920,894,26,Calibre No Conforme
+V-11082,2025-03-04,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.1,962,936,26,Cicatriz/Mancha
+V-11083,2025-04-25,Turbo,La Esperanza Turbo,TransUrabá,Tarde (12pm-8pm),4.4,1050,949,101,Madurez Prematura
+V-11084,2025-04-25,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),4.3,1039,920,119,Madurez Prematura
+V-11085,2025-03-29,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),,906,808,98,Madurez Prematura
+V-11086,2025-06-21,Carepa,La Esperanza Carepa,Logística Bananera,Mañana (4am-12pm),2.9,923,913,10,Daño Mecánico
+V-11087,2025-04-15,Chigorodó,San José Chigorodó,Logística Bananera,Mañana (4am-12pm),4.3,960,898,62,Daño Mecánico
+V-11088,2025-01-14,Apartadó,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),1.3,931,896,35,Daño Mecánico
+V-11089,2025-04-10,Chigorodó,Villa Verde Chigorodó,TransUrabá,Mañana (4am-12pm),3.3,803,791,12,Daño Mecánico
+V-11090,2025-03-22,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.2,931,869,62,Calibre No Conforme
+V-11091,2025-02-15,Apartadó,El Bananal Apartadó,Logística Bananera,Tarde (12pm-8pm),1.2,847,790,57,Madurez Prematura
+V-11092,2025-03-27,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.1,1048,982,66,Daño Mecánico
+V-11093,2025-05-29,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),3.0,923,909,14,Daño Mecánico
+V-11094,2025-01-22,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.2,1060,940,120,Madurez Prematura
+V-11095,2025-02-07,Apartadó,La Bonita Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.6,984,931,53,Daño Mecánico
+V-11096,2025-01-25,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),4.0,836,782,54,Cicatriz/Mancha
+V-11097,2025-04-12,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),4.1,996,913,83,Calibre No Conforme
+V-11098,2025-03-09,Carepa,Villa Verde Carepa,TransUrabá,Noche (8pm-4am),1.3,918,890,28,Daño Mecánico
+V-11099,2025-03-14,Turbo,El Tesoro Turbo,Logística Bananera,Mañana (4am-12pm),5.7,829,767,62,Cicatriz/Mancha
+V-11100,2025-03-01,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),1.7,1093,1064,29,Calibre No Conforme
+V-11101,2025-01-06,Chigorodó,San José Chigorodó,Logística Bananera,Noche (8pm-4am),3.8,1074,1038,36,Daño Mecánico
+V-11102,2025-05-18,Chigorodó,El Bananal Chigorodó,TransUrabá,Mañana (4am-12pm),2.7,1078,1045,33,Madurez Prematura
+V-11103,2025-03-05,Turbo,El Tesoro Turbo,Rutas del Darién,Mañana (4am-12pm),5.8,922,857,65,Cicatriz/Mancha
+V-11104,2025-03-27,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),4.4,936,849,87,Madurez Prematura
+V-11105,2025-04-27,Apartadó,Villa Verde Apartadó,TransUrabá,Tarde (12pm-8pm),,959,902,57,Calibre No Conforme
+V-11106,2025-05-25,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.3,842,788,54,Calibre No Conforme
+V-11107,2025-03-16,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.3,1011,941,70,Cicatriz/Mancha
+V-11108,2025-01-07,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),5.2,812,761,51,Madurez Prematura
+V-11109,2025-02-18,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),5.2,946,853,93,Madurez Prematura
+V-11110,2025-03-22,Apartadó,Villa Verde Apartadó,Logística Bananera,Noche (8pm-4am),2.6,839,812,27,Cicatriz/Mancha
+V-11111,2025-04-12,Apartadó,San José Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.1,1018,951,67,Daño Mecánico
+V-11112,2025-01-09,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.2,807,799,8,Madurez Prematura
+V-11113,2025-02-07,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),1.4,1051,1026,25,Calibre No Conforme
+V-11114,2025-01-31,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.5,951,919,32,Daño Mecánico
+V-11115,2025-01-12,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),2.4,982,936,46,Daño Mecánico
+V-11116,2025-05-10,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),,882,870,12,Madurez Prematura
+V-11117,2025-06-26,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),2.5,967,946,21,Calibre No Conforme
+V-11118,2025-02-13,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.4,936,896,40,Cicatriz/Mancha
+V-11119,2025-01-26,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),1.3,974,958,16,Madurez Prematura
+V-11120,2025-01-09,Turbo,El Bananal Turbo,TransUrabá,Mañana (4am-12pm),4.9,1098,1023,75,Calibre No Conforme
+V-11121,2025-03-16,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.1,1067,1032,35,Daño Mecánico
+V-11122,2025-04-19,Turbo,Villa Verde Turbo,Rutas del Darién,Noche (8pm-4am),4.3,981,897,84,Daño Mecánico
+V-11123,2025-06-11,Apartadó,La Bonita Apartadó,Logística Bananera,Tarde (12pm-8pm),2.4,875,822,53,Cicatriz/Mancha
+V-11124,2025-01-30,Turbo,La Esperanza Turbo,TransUrabá,Tarde (12pm-8pm),5.2,1094,983,111,Madurez Prematura
+V-11125,2025-01-20,Turbo,La Bonita Turbo,TransUrabá,Noche (8pm-4am),5.7,1003,936,67,Daño Mecánico
+V-11126,2025-06-16,Turbo,Villa Verde Turbo,Rutas del Darién,Noche (8pm-4am),4.5,816,761,55,Madurez Prematura
+V-11127,2025-01-08,Apartadó,Villa Verde Apartadó,Logística Bananera,Mañana (4am-12pm),1.1,843,824,19,Calibre No Conforme
+V-11128,2025-06-30,Turbo,Villa Verde Turbo,Rutas del Darién,Mañana (4am-12pm),,980,898,82,Madurez Prematura
+V-11129,2025-01-28,Apartadó,La Esperanza Apartadó,Logística Bananera,Mañana (4am-12pm),1.9,970,944,26,Madurez Prematura
+V-11130,2025-05-12,Turbo,El Tesoro Turbo,Rutas del Darién,Tarde (12pm-8pm),4.3,954,851,103,Madurez Prematura
+V-11131,2025-02-11,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),3.9,839,812,27,Calibre No Conforme
+V-11132,2025-04-13,Carepa,El Tesoro Carepa,TransUrabá,Tarde (12pm-8pm),2.1,1026,960,66,Cicatriz/Mancha
+V-11133,2025-06-22,Apartadó,El Tesoro Apartadó,TransUrabá,Tarde (12pm-8pm),2.8,1015,967,48,Calibre No Conforme
+V-11134,2025-03-15,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.6,853,815,38,Daño Mecánico
+V-11135,2025-05-26,Apartadó,El Tesoro Apartadó,TransUrabá,Tarde (12pm-8pm),2.7,848,809,39,Madurez Prematura
+V-11136,2025-01-11,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),3.3,974,957,17,Calibre No Conforme
+V-11137,2025-06-17,Carepa,San José Carepa,Rutas del Darién,Tarde (12pm-8pm),2.3,1066,1019,47,Madurez Prematura
+V-11138,2025-02-03,Chigorodó,San José Chigorodó,TransUrabá,Tarde (12pm-8pm),4.1,834,754,80,Madurez Prematura
+V-11139,2025-01-04,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),5.7,895,835,60,Calibre No Conforme
+V-11140,2025-03-26,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,975,937,38,Calibre No Conforme
+V-11141,2025-04-30,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.6,950,871,79,Daño Mecánico
+V-11142,2025-06-02,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.9,817,750,67,Madurez Prematura
+V-11143,2025-02-27,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),3.9,999,973,26,Calibre No Conforme
+V-11144,2025-04-16,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.4,823,792,31,Cicatriz/Mancha
+V-11145,2025-06-13,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.9,819,773,46,Calibre No Conforme
+V-11146,2025-01-26,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),1.3,930,914,16,Daño Mecánico
+V-11147,2025-05-18,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.2,1020,957,63,Calibre No Conforme
+V-11148,2025-05-11,Turbo,La Esperanza Turbo,Rutas del Darién,Noche (8pm-4am),4.4,803,744,59,Cicatriz/Mancha
+V-11149,2025-01-12,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),3.7,1072,1034,38,Calibre No Conforme
+V-11150,2025-02-11,Apartadó,El Tesoro Apartadó,Rutas del Darién,Noche (8pm-4am),2.1,870,845,25,Madurez Prematura
+V-11151,2025-01-29,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),4.6,987,909,78,Madurez Prematura
+V-11152,2025-01-25,Chigorodó,El Tesoro Chigorodó,TransUrabá,Noche (8pm-4am),2.5,824,799,25,Cicatriz/Mancha
+V-11153,2025-01-10,Apartadó,El Bananal Apartadó,Logística Bananera,Mañana (4am-12pm),2.9,946,912,34,Madurez Prematura
+V-11154,2025-02-06,Carepa,Villa Verde Carepa,TransUrabá,Noche (8pm-4am),1.5,909,882,27,Cicatriz/Mancha
+V-11155,2025-06-15,Turbo,El Tesoro Turbo,TransUrabá,Mañana (4am-12pm),5.5,992,907,85,Calibre No Conforme
+V-11156,2025-06-15,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),2.7,1031,1011,20,Cicatriz/Mancha
+V-11157,2025-03-06,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.3,965,934,31,Madurez Prematura
+V-11158,2025-04-12,Chigorodó,San José Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.8,870,824,46,Calibre No Conforme
+V-11159,2025-06-13,Chigorodó,El Tesoro Chigorodó,TransUrabá,Tarde (12pm-8pm),3.2,1047,1006,41,Cicatriz/Mancha
+V-11160,2025-06-23,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.9,892,845,47,Madurez Prematura
+V-11161,2025-01-31,Carepa,La Bonita Carepa,Logística Bananera,Mañana (4am-12pm),1.0,1092,1066,26,Calibre No Conforme
+V-11162,2025-04-27,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.4,1046,1012,34,Daño Mecánico
+V-11163,2025-03-19,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),2.3,936,923,13,Cicatriz/Mancha
+V-11164,2025-01-13,Carepa,Villa Verde Carepa,TransUrabá,Tarde (12pm-8pm),1.8,937,893,44,Daño Mecánico
+V-11165,2025-05-28,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),3.8,865,831,34,Calibre No Conforme
+V-11166,2025-05-07,Apartadó,El Bananal Apartadó,TransUrabá,Tarde (12pm-8pm),2.4,999,948,51,Daño Mecánico
+V-11167,2025-06-14,Turbo,Villa Verde Turbo,Logística Bananera,Tarde (12pm-8pm),6.2,959,858,101,Madurez Prematura
+V-11168,2025-05-09,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.4,800,786,14,Cicatriz/Mancha
+V-11169,2025-04-20,Carepa,El Bananal Carepa,TransUrabá,Mañana (4am-12pm),1.9,826,818,8,Madurez Prematura
+V-11170,2025-02-06,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.3,863,833,30,Daño Mecánico
+V-11171,2025-03-16,Apartadó,El Bananal Apartadó,Rutas del Darién,Noche (8pm-4am),1.5,1008,974,34,Cicatriz/Mancha
+V-11172,2025-02-03,Turbo,La Bonita Turbo,Logística Bananera,Tarde (12pm-8pm),5.0,1022,921,101,Madurez Prematura
+V-11173,2025-04-05,Turbo,San José Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.7,881,786,95,Madurez Prematura
+V-11174,2025-01-12,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.1,1064,1034,30,Cicatriz/Mancha
+V-11175,2025-06-30,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.9,842,783,59,Daño Mecánico
+V-11176,2025-02-28,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.0,968,953,15,Cicatriz/Mancha
+V-11177,2025-03-01,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),5.6,932,876,56,Cicatriz/Mancha
+V-11178,2025-02-22,Apartadó,San José Apartadó,TransUrabá,Noche (8pm-4am),1.6,1044,1014,30,Madurez Prematura
+V-11179,2025-01-09,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),2.6,965,943,22,Cicatriz/Mancha
+V-11180,2025-06-06,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),4.8,902,833,69,Daño Mecánico
+V-11181,2025-04-02,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),4.2,1033,964,69,Madurez Prematura
+V-11182,2025-04-27,Turbo,El Tesoro Turbo,Rutas del Darién,Mañana (4am-12pm),5.9,1011,922,89,Cicatriz/Mancha
+V-11183,2025-02-25,Carepa,El Tesoro Carepa,Logística Bananera,Noche (8pm-4am),1.7,967,942,25,Madurez Prematura
+V-11184,2025-06-07,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),2.0,811,755,56,Madurez Prematura
+V-11185,2025-02-28,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),4.7,932,854,78,Calibre No Conforme
+V-11186,2025-02-16,Carepa,San José Carepa,TransUrabá,Mañana (4am-12pm),2.5,1013,985,28,Daño Mecánico
+V-11187,2025-04-13,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),4.5,870,813,57,Daño Mecánico
+V-11188,2025-04-23,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),2.9,1008,981,27,Cicatriz/Mancha
+V-11189,2025-05-09,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Noche (8pm-4am),3.7,836,816,20,Calibre No Conforme
+V-11190,2025-05-27,Carepa,Villa Verde Carepa,TransUrabá,Mañana (4am-12pm),,936,916,20,Madurez Prematura
+V-11191,2025-04-18,Carepa,Villa Verde Carepa,TransUrabá,Mañana (4am-12pm),1.9,883,856,27,Madurez Prematura
+V-11192,2025-02-12,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),1.3,978,949,29,Calibre No Conforme
+V-11193,2025-01-19,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),5.9,900,844,56,Cicatriz/Mancha
+V-11194,2025-05-27,Turbo,El Bananal Turbo,Rutas del Darién,Tarde (12pm-8pm),4.4,1050,949,101,Madurez Prematura
+V-11195,2025-01-26,Apartadó,La Bonita Apartadó,Rutas del Darién,Mañana (4am-12pm),1.6,1095,1062,33,Madurez Prematura
+V-11196,2025-05-24,Carepa,La Esperanza Carepa,TransUrabá,Mañana (4am-12pm),1.7,887,874,13,Daño Mecánico
+V-11197,2025-06-22,Apartadó,El Tesoro Apartadó,Rutas del Darién,Noche (8pm-4am),2.4,1041,1002,39,Calibre No Conforme
+V-11198,2025-05-14,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Noche (8pm-4am),4.2,826,769,57,Daño Mecánico
+V-11199,2025-01-12,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),,922,913,9,Madurez Prematura
+V-11200,2025-03-19,Turbo,San José Turbo,TransUrabá,Noche (8pm-4am),3.7,878,853,25,Calibre No Conforme
+V-11201,2025-03-27,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),4.9,886,823,63,Madurez Prematura
+V-11202,2025-04-04,Apartadó,San José Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.5,905,865,40,Madurez Prematura
+V-11203,2025-01-20,Apartadó,San José Apartadó,Logística Bananera,Tarde (12pm-8pm),2.9,805,770,35,Cicatriz/Mancha
+V-11204,2025-04-30,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),2.4,868,854,14,Calibre No Conforme
+V-11205,2025-06-25,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),5.7,827,759,68,Daño Mecánico
+V-11206,2025-05-01,carepa ,El Tesoro Carepa,TransUrabá,Mañana (4am-12pm),1.2,951,929,22,Daño Mecánico
+V-11207,2025-05-01,Carepa,San José Carepa,Logística Bananera,Mañana (4am-12pm),2.8,1028,1010,18,Cicatriz/Mancha
+V-11208,2025-01-14,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,1048,1012,36,Cicatriz/Mancha
+V-11209,2025-04-28,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),1.3,929,911,18,Daño Mecánico
+V-11210,2025-03-17,Turbo,La Esperanza Turbo,Rutas del Darién,Mañana (4am-12pm),6.0,851,776,75,Daño Mecánico
+V-11211,2025-03-26,Carepa,San José Carepa,Rutas del Darién,Mañana (4am-12pm),2.5,952,923,29,Calibre No Conforme
+V-11212,2025-01-27,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.1,895,886,9,Daño Mecánico
+V-11213,2025-05-06,Chigorodó,San José Chigorodó,Rutas del Darién,Noche (8pm-4am),2.6,1086,1061,25,Calibre No Conforme
+V-11214,2025-02-25,Turbo,Villa Verde Turbo,Logística Bananera,Mañana (4am-12pm),4.9,1069,980,89,Cicatriz/Mancha
+V-11215,2025-03-14,Turbo,La Bonita Turbo,Rutas del Darién,Noche (8pm-4am),5.8,892,821,71,Calibre No Conforme
+V-11216,2025-03-28,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),5.4,975,893,82,Calibre No Conforme
+V-11217,2025-05-29,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Mañana (4am-12pm),2.6,1036,1014,22,Cicatriz/Mancha
+V-11218,2025-06-16,Carepa,El Tesoro Carepa,TransUrabá,Tarde (12pm-8pm),1.0,946,888,58,Madurez Prematura
+V-11219,2025-01-22,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.2,918,860,58,Madurez Prematura
+V-11220,2025-01-20,Carepa,El Bananal Carepa,Logística Bananera,Mañana (4am-12pm),2.7,1029,994,35,Madurez Prematura
+V-11221,2025-06-09,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),3.9,982,945,37,Madurez Prematura
+V-11222,2025-02-12,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),6.3,1047,944,103,Madurez Prematura
+V-11223,2025-06-11,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),2.3,838,811,27,Cicatriz/Mancha
+V-11224,2025-01-16,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),2.9,977,948,29,Cicatriz/Mancha
+V-11225,2025-05-22,Carepa,Villa Verde Carepa,Rutas del Darién,Mañana (4am-12pm),1.5,933,916,17,Cicatriz/Mancha
+V-11226,2025-02-19,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.1,927,865,62,Calibre No Conforme
+V-11227,2025-03-07,Apartadó,El Tesoro Apartadó,Logística Bananera,Noche (8pm-4am),1.8,812,802,10,Calibre No Conforme
+V-11228,2025-03-31,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.0,824,805,19,Calibre No Conforme
+V-11229,2025-02-24,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.9,1024,954,70,Madurez Prematura
+V-11230,2025-01-22,Chigorodó,El Bananal Chigorodó,TransUrabá,Tarde (12pm-8pm),4.3,850,761,89,Madurez Prematura
+V-11231,2025-04-14,Chigorodó,La Bonita Chigorodó,TransUrabá,Mañana (4am-12pm),4.4,880,819,61,Madurez Prematura
+V-11232,2025-03-24,TURBO,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),6.1,1097,1005,92,Madurez Prematura
+V-11233,2025-02-10,Turbo,San José Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.2,1029,938,91,Madurez Prematura
+V-11234,2025-02-27,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),,1024,995,29,Madurez Prematura
+V-11235,2025-02-14,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Noche (8pm-4am),4.8,958,895,63,Cicatriz/Mancha
+V-11236,2025-06-02,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Mañana (4am-12pm),5.0,834,778,56,Calibre No Conforme
+V-11237,2025-01-31,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.7,1016,929,87,Calibre No Conforme
+V-11238,2025-06-17,Carepa,San José Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.5,887,853,34,Calibre No Conforme
+V-11239,2025-02-06,Apartado,La Esperanza Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.4,852,824,28,Madurez Prematura
+V-11240,2025-03-09,Turbo,La Bonita Turbo,Rutas del Darién,Tarde (12pm-8pm),6.2,1019,903,116,Madurez Prematura
+V-11241,2025-06-11,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Mañana (4am-12pm),3.5,1039,1003,36,Cicatriz/Mancha
+V-11242,2025-04-14,Chigorodó,El Bananal Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.5,896,870,26,Daño Mecánico
+V-11243,2025-03-02,Turbo,La Esperanza Turbo,TransUrabá,Mañana (4am-12pm),6.1,876,808,68,Calibre No Conforme
+V-11244,2025-05-21,Turbo,San José Turbo,TransUrabá,Noche (8pm-4am),5.1,825,756,69,Daño Mecánico
+V-11245,2025-04-27,Turbo,Villa Verde Turbo,TransUrabá,Tarde (12pm-8pm),3.6,1032,981,51,Calibre No Conforme
+V-11246,2025-03-29,Turbo,San José Turbo,Rutas del Darién,Tarde (12pm-8pm),4.0,955,903,52,Cicatriz/Mancha
+V-11247,2025-03-01,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),2.3,844,826,18,Cicatriz/Mancha
+V-11248,2025-03-20,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),4.2,825,755,70,Cicatriz/Mancha
+V-11249,2025-04-12,Chigorodó,Villa Verde Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),,835,803,32,Daño Mecánico
+V-11250,2025-01-11,Turbo,La Bonita Turbo,TransUrabá,Noche (8pm-4am),4.6,801,748,53,Madurez Prematura
+V-11251,2025-04-23,Turbo,La Bonita Turbo,TransUrabá,Noche (8pm-4am),5.5,990,921,69,Cicatriz/Mancha
+V-11252,2025-04-16,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),3.6,1055,1030,25,Madurez Prematura
+V-11253,2025-01-04,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.8,972,894,78,Daño Mecánico
+V-11254,2025-01-13,Turbo,El Bananal Turbo,Rutas del Darién,Noche (8pm-4am),5.7,905,837,68,Daño Mecánico
+V-11255,2025-05-23,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),4.0,1045,1023,22,Calibre No Conforme
+V-11256,2025-01-16,Turbo,El Bananal Turbo,TransUrabá,Noche (8pm-4am),4.2,931,867,64,Madurez Prematura
+V-11257,2025-06-17,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.2,871,794,77,Madurez Prematura
+V-11258,2025-04-27,Chigorodo,La Esperanza Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.7,879,797,82,Madurez Prematura
+V-11259,2025-01-17,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),1.9,1079,1037,42,Cicatriz/Mancha
+V-11260,2025-02-27,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),2.2,806,775,31,Daño Mecánico
+V-11261,2025-03-23,Carepa,La Bonita Carepa,TransUrabá,Tarde (12pm-8pm),2.2,865,808,57,Cicatriz/Mancha
+V-11262,2025-03-25,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.4,828,777,51,Madurez Prematura
+V-11263,2025-04-09,Apartadó,La Bonita Apartadó,Rutas del Darién,Mañana (4am-12pm),1.7,1004,985,19,Calibre No Conforme
+V-11264,2025-02-22,Turbo,San José Turbo,Rutas del Darién,Mañana (4am-12pm),5.1,1025,947,78,Cicatriz/Mancha
+V-11265,2025-05-08,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),2.8,901,877,24,Madurez Prematura
+V-11266,2025-05-30,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Noche (8pm-4am),3.9,833,818,15,Daño Mecánico
+V-11267,2025-06-22,Chigorodó,Villa Verde Chigorodó,TransUrabá,Tarde (12pm-8pm),4.2,823,741,82,Madurez Prematura
+V-11268,2025-05-10,Apartadó,La Esperanza Apartadó,Rutas del Darién,Noche (8pm-4am),,991,972,19,Calibre No Conforme
+V-11269,2025-05-13,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.1,1072,1008,64,Cicatriz/Mancha
+V-11270,2025-04-17,Turbo,El Tesoro Turbo,TransUrabá,Noche (8pm-4am),5.0,836,776,60,Daño Mecánico
+V-11271,2025-03-30,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),6.2,850,779,71,Cicatriz/Mancha
+V-11272,2025-03-13,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),,1067,943,124,Madurez Prematura
+V-11273,2025-02-07,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Noche (8pm-4am),4.7,814,764,50,Daño Mecánico
+V-11274,2025-06-16,Turbo,La Bonita Turbo,Logística Bananera,Mañana (4am-12pm),6.4,918,852,66,Calibre No Conforme
+V-11275,2025-06-29,Chigorodó,El Tesoro Chigorodó,TransUrabá,Tarde (12pm-8pm),5.0,942,839,103,Madurez Prematura
+V-11276,2025-04-29,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),1.1,1075,1044,31,Cicatriz/Mancha
+V-11277,2025-03-04,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),2.5,878,866,12,Calibre No Conforme
+V-11278,2025-03-18,Apartadó,La Esperanza Apartadó,Logística Bananera,Noche (8pm-4am),2.3,1037,1002,35,Daño Mecánico
+V-11279,2025-02-27,Carepa,La Esperanza Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.3,810,779,31,Madurez Prematura
+V-11280,2025-01-27,Apartadó,San José Apartadó,Logística Bananera,Mañana (4am-12pm),2.8,1057,1027,30,Daño Mecánico
+V-11281,2025-02-13,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),,931,855,76,Calibre No Conforme
+V-11282,2025-03-29,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),1.3,1094,1065,29,Cicatriz/Mancha
+V-11283,2025-05-24,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.2,961,902,59,Daño Mecánico
+V-11284,2025-02-20,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),,834,769,65,Daño Mecánico
+V-11285,2025-02-27,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.0,866,856,10,Calibre No Conforme
+V-11286,2025-06-01,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.4,878,862,16,Calibre No Conforme
+V-11287,2025-02-27,Turbo,El Bananal Turbo,Carga Agrícola S.A.,Mañana (4am-12pm),5.4,994,913,81,Madurez Prematura
+V-11288,2025-03-18,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),1.2,1080,1062,18,Daño Mecánico
+V-11289,2025-06-28,Carepa,La Bonita Carepa,Rutas del Darién,Tarde (12pm-8pm),1.6,1044,981,63,Daño Mecánico
+V-11290,2025-02-28,Apartadó,Villa Verde Apartadó,Rutas del Darién,Mañana (4am-12pm),2.4,978,944,34,Daño Mecánico
+V-11291,2025-05-05,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.5,1080,1031,49,Cicatriz/Mancha
+V-11292,2025-06-19,Chigorodó,El Bananal Chigorodó,TransUrabá,Noche (8pm-4am),4.6,1049,966,83,Calibre No Conforme
+V-11293,2025-05-14,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.5,1008,948,60,Calibre No Conforme
+V-11294,2025-04-05,Apartadó,San José Apartadó,Rutas del Darién,Noche (8pm-4am),1.0,859,839,20,Madurez Prematura
+V-11295,2025-01-06,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),3.6,968,928,40,Daño Mecánico
+V-11296,2025-06-04,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.5,852,793,59,Cicatriz/Mancha
+V-11297,2025-05-08,Turbo,San José Turbo,Rutas del Darién,Mañana (4am-12pm),5.8,986,924,62,Daño Mecánico
+V-11298,2025-06-19,Apartadó,Villa Verde Apartadó,Logística Bananera,Noche (8pm-4am),1.6,978,963,15,Madurez Prematura
+V-11299,2025-01-05,Chigorodó,La Bonita Chigorodó,TransUrabá,Mañana (4am-12pm),2.8,900,878,22,Calibre No Conforme
+V-11300,2025-06-06,Apartadó,Villa Verde Apartadó,Logística Bananera,Tarde (12pm-8pm),2.8,1091,1022,69,Cicatriz/Mancha
+V-11301,2025-04-08,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.5,947,907,40,Calibre No Conforme
+V-11302,2025-05-27,Apartadó,Villa Verde Apartadó,Rutas del Darién,Noche (8pm-4am),1.4,1005,993,12,Calibre No Conforme
+V-11303,2025-02-16,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.6,859,757,102,Madurez Prematura
+V-11304,2025-05-14,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),2.6,1069,1012,57,Cicatriz/Mancha
+V-11305,2025-01-05,Carepa,El Bananal Carepa,TransUrabá,Mañana (4am-12pm),2.7,966,942,24,Daño Mecánico
+V-11306,2025-02-25,TURBO,La Bonita Turbo,Rutas del Darién,Noche (8pm-4am),3.9,1074,1057,17,Madurez Prematura
+V-11307,2025-06-07,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.3,809,753,56,Calibre No Conforme
+V-11308,2025-05-19,Chigorodó,La Bonita Chigorodó,TransUrabá,Mañana (4am-12pm),4.4,898,835,63,Cicatriz/Mancha
+V-11309,2025-05-27,Carepa,El Bananal Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.0,918,900,18,Calibre No Conforme
+V-11310,2025-03-05,Carepa,San José Carepa,TransUrabá,Noche (8pm-4am),2.0,917,890,27,Madurez Prematura
+V-11311,2025-06-11,Chigorodo,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),3.9,847,815,32,Daño Mecánico
+V-11312,2025-05-31,Apartadó,San José Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.1,825,801,24,Madurez Prematura
+V-11313,2025-02-10,Turbo,Villa Verde Turbo,TransUrabá,Noche (8pm-4am),5.8,865,794,71,Cicatriz/Mancha
+V-11314,2025-05-08,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),4.8,923,847,76,Cicatriz/Mancha
+V-11315,2025-06-19,Turbo,La Bonita Turbo,Rutas del Darién,Mañana (4am-12pm),3.8,1047,1026,21,Cicatriz/Mancha
+V-11316,2025-04-21,Chigorodó,San José Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.2,938,843,95,Madurez Prematura
+V-11317,2025-04-29,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),2.9,1041,1026,15,Daño Mecánico
+V-11318,2025-01-13,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),6.3,921,845,76,Madurez Prematura
+V-11319,2025-01-13,Chigorodó,La Bonita Chigorodó,TransUrabá,Tarde (12pm-8pm),4.4,830,731,99,Madurez Prematura
+V-11320,2025-04-05,Turbo,El Tesoro Turbo,Logística Bananera,Tarde (12pm-8pm),6.4,866,773,93,Madurez Prematura
+V-11321,2025-04-08,Carepa,San José Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.3,961,937,24,Madurez Prematura
+V-11322,2025-02-28,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),5.0,999,899,100,Madurez Prematura
+V-11323,2025-01-01,Chigorodó,La Esperanza Chigorodó,TransUrabá,Mañana (4am-12pm),3.6,879,855,24,Calibre No Conforme
+V-11324,2025-01-28,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Mañana (4am-12pm),3.0,821,798,23,Madurez Prematura
+V-11325,2025-04-11,Turbo,La Esperanza Turbo,Logística Bananera,Noche (8pm-4am),4.9,951,873,78,Cicatriz/Mancha
+V-11326,2025-06-21,Chigorodó,La Bonita Chigorodó,Logística Bananera,Noche (8pm-4am),3.0,1029,1004,25,Daño Mecánico
+V-11327,2025-05-19,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.5,897,849,48,Madurez Prematura
+V-11328,2025-03-17,Apartadó,El Tesoro Apartadó,Rutas del Darién,Mañana (4am-12pm),1.3,1028,989,39,Cicatriz/Mancha
+V-11329,2025-01-20,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),4.1,1027,915,112,Madurez Prematura
+V-11330,2025-01-12,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),5.6,1032,926,106,Madurez Prematura
+V-11331,2025-05-30,Turbo,El Bananal Turbo,Rutas del Darién,Tarde (12pm-8pm),5.5,969,868,101,Madurez Prematura
+V-11332,2025-06-17,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),4.8,800,752,48,Madurez Prematura
+V-11333,2025-01-22,Turbo,San José Turbo,Rutas del Darién,Tarde (12pm-8pm),6.0,1085,958,127,Madurez Prematura
+V-11334,2025-02-02,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),5.4,1059,976,83,Calibre No Conforme
+V-11335,2025-03-11,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),4.2,1020,933,87,Daño Mecánico
+V-11336,2025-06-29,Carepa,El Bananal Carepa,Rutas del Darién,Tarde (12pm-8pm),,973,910,63,Madurez Prematura
+V-11337,2025-03-08,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.4,939,906,33,Madurez Prematura
+V-11338,2025-04-14,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),6.2,1084,1012,72,Cicatriz/Mancha
+V-11339,2025-06-25,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),3.8,833,821,12,Cicatriz/Mancha
+V-11340,2025-06-14,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Mañana (4am-12pm),2.9,835,806,29,Cicatriz/Mancha
+V-11341,2025-06-29,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),5.0,885,827,58,Madurez Prematura
+V-11342,2025-03-03,Apartadó,El Bananal Apartadó,TransUrabá,Noche (8pm-4am),1.6,988,952,36,Calibre No Conforme
+V-11343,2025-05-28,Turbo,El Bananal Turbo,TransUrabá,Mañana (4am-12pm),4.0,1082,1061,21,Calibre No Conforme
+V-11344,2025-03-02,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Noche (8pm-4am),3.6,888,856,32,Madurez Prematura
+V-11345,2025-02-23,Carepa,El Bananal Carepa,Rutas del Darién,Noche (8pm-4am),2.1,1100,1089,11,Madurez Prematura
+V-11346,2025-02-25,Turbo,Villa Verde Turbo,Logística Bananera,Noche (8pm-4am),3.8,894,876,18,Calibre No Conforme
+V-11347,2025-03-10,Apartadó,La Esperanza Apartadó,Logística Bananera,Tarde (12pm-8pm),1.6,837,803,34,Madurez Prematura
+V-11348,2025-06-08,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),5.2,969,871,98,Madurez Prematura
+V-11349,2025-02-15,Turbo,San José Turbo,Logística Bananera,Tarde (12pm-8pm),5.2,1020,900,120,Madurez Prematura
+V-11350,2025-01-07,Carepa,Villa Verde Carepa,Rutas del Darién,Tarde (12pm-8pm),1.7,1014,969,45,Madurez Prematura
+V-11351,2025-03-28,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.9,950,890,60,Calibre No Conforme
+V-11352,2025-04-02,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.1,895,847,48,Madurez Prematura
+V-11353,2025-06-09,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),1.2,1067,993,74,Calibre No Conforme
+V-11354,2025-01-29,Carepa,El Tesoro Carepa,Rutas del Darién,Noche (8pm-4am),1.8,818,806,12,Calibre No Conforme
+V-11355,2025-06-16,Carepa,El Tesoro Carepa,Logística Bananera,Noche (8pm-4am),2.1,884,856,28,Cicatriz/Mancha
+V-11356,2025-04-23,Carepa,Villa Verde Carepa,Rutas del Darién,Noche (8pm-4am),3.0,1095,1072,23,Cicatriz/Mancha
+V-11357,2025-05-07,Chigorodó,El Tesoro Chigorodó,TransUrabá,Tarde (12pm-8pm),3.0,814,766,48,Calibre No Conforme
+V-11358,2025-01-10,Apartadó,San José Apartadó,Rutas del Darién,Noche (8pm-4am),1.0,849,825,24,Madurez Prematura
+V-11359,2025-04-15,Apartadó,La Bonita Apartadó,TransUrabá,Mañana (4am-12pm),2.2,858,833,25,Daño Mecánico
+V-11360,2025-01-25,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Mañana (4am-12pm),2.8,920,885,35,Madurez Prematura
+V-11361,2025-05-05,Apartadó,Villa Verde Apartadó,TransUrabá,Noche (8pm-4am),2.8,922,904,18,Daño Mecánico
+V-11362,2025-05-30,Carepa,San José Carepa,Rutas del Darién,Noche (8pm-4am),1.4,1079,1039,40,Cicatriz/Mancha
+V-11363,2025-01-04,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.9,923,864,59,Madurez Prematura
+V-11364,2025-04-14,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),1.3,902,847,55,Cicatriz/Mancha
+V-11365,2025-03-11,Turbo,La Esperanza Turbo,TransUrabá,Noche (8pm-4am),6.0,931,864,67,Madurez Prematura
+V-11366,2025-04-06,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),1.1,975,959,16,Calibre No Conforme
+V-11367,2025-03-27,Turbo,La Esperanza Turbo,TransUrabá,Tarde (12pm-8pm),5.5,871,791,80,Madurez Prematura
+V-11368,2025-02-15,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),,878,846,32,Daño Mecánico
+V-11369,2025-03-11,Apartadó,Villa Verde Apartadó,Logística Bananera,Noche (8pm-4am),2.7,914,890,24,Daño Mecánico
+V-11370,2025-01-30,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),3.2,933,901,32,Cicatriz/Mancha
+V-11371,2025-04-13,Apartadó,San José Apartadó,TransUrabá,Noche (8pm-4am),1.0,833,818,15,Daño Mecánico
+V-11372,2025-04-09,Carepa,San José Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.5,1050,991,59,Cicatriz/Mancha
+V-11373,2025-04-07,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),3.8,860,823,37,Calibre No Conforme
+V-11374,2025-01-09,carepa ,La Bonita Carepa,TransUrabá,Mañana (4am-12pm),2.7,1080,1050,30,Daño Mecánico
+V-11375,2025-05-17,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.5,910,866,44,Madurez Prematura
+V-11376,2025-04-18,Carepa,La Bonita Carepa,Rutas del Darién,Mañana (4am-12pm),2.0,803,792,11,Calibre No Conforme
+V-11377,2025-02-26,Turbo,El Tesoro Turbo,Rutas del Darién,Noche (8pm-4am),5.5,842,781,61,Madurez Prematura
+V-11378,2025-02-21,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.5,1098,999,99,Madurez Prematura
+V-11379,2025-03-05,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.6,1050,1022,28,Madurez Prematura
+V-11380,2025-06-03,Apartadó,El Tesoro Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.9,1034,992,42,Daño Mecánico
+V-11381,2025-02-27,Apartadó,La Bonita Apartadó,TransUrabá,Mañana (4am-12pm),2.0,927,902,25,Calibre No Conforme
+V-11382,2025-03-11,Apartadó,La Bonita Apartadó,TransUrabá,Noche (8pm-4am),,936,906,30,Cicatriz/Mancha
+V-11383,2025-02-11,Carepa,La Esperanza Carepa,Rutas del Darién,Mañana (4am-12pm),1.7,976,967,9,Madurez Prematura
+V-11384,2025-05-15,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),2.5,1087,1064,23,Calibre No Conforme
+V-11385,2025-02-01,Chigorodo,La Esperanza Chigorodó,Logística Bananera,Mañana (4am-12pm),3.2,820,800,20,Calibre No Conforme
+V-11386,2025-03-29,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),4.8,875,795,80,Madurez Prematura
+V-11387,2025-01-26,Turbo,La Esperanza Turbo,Logística Bananera,Mañana (4am-12pm),5.3,1080,984,96,Cicatriz/Mancha
+V-11388,2025-03-20,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.5,972,946,26,Cicatriz/Mancha
+V-11389,2025-05-31,Turbo,El Bananal Turbo,Logística Bananera,Tarde (12pm-8pm),4.5,827,747,80,Madurez Prematura
+V-11390,2025-04-09,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.7,1099,1050,49,Daño Mecánico
+V-11391,2025-05-03,Apartadó,El Tesoro Apartadó,Rutas del Darién,Mañana (4am-12pm),,898,870,28,Daño Mecánico
+V-11392,2025-01-25,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),2.9,1066,1034,32,Calibre No Conforme
+V-11393,2025-06-02,Carepa,La Esperanza Carepa,Rutas del Darién,Noche (8pm-4am),2.3,926,897,29,Calibre No Conforme
+V-11394,2025-01-12,Apartadó,San José Apartadó,Logística Bananera,Noche (8pm-4am),2.2,877,851,26,Daño Mecánico
+V-11395,2025-05-18,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),5.0,886,820,66,Calibre No Conforme
+V-11396,2025-03-03,Carepa,San José Carepa,Rutas del Darién,Noche (8pm-4am),1.7,1080,1060,20,Daño Mecánico
+V-11397,2025-05-04,Apartadó,El Tesoro Apartadó,TransUrabá,Noche (8pm-4am),1.5,1010,976,34,Madurez Prematura
+V-11398,2025-01-10,Apartadó,Villa Verde Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.0,938,887,51,Daño Mecánico
+V-11399,2025-01-11,Turbo,San José Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),6.0,941,836,105,Madurez Prematura
+V-11400,2025-03-30,Apartadó,La Esperanza Apartadó,Rutas del Darién,Tarde (12pm-8pm),2.8,1053,1002,51,Madurez Prematura
+V-11401,2025-05-19,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),5.2,894,812,82,Madurez Prematura
+V-11402,2025-02-28,Carepa,San José Carepa,Rutas del Darién,Noche (8pm-4am),1.4,933,897,36,Daño Mecánico
+V-11403,2025-04-02,Apartadó,El Tesoro Apartadó,Rutas del Darién,Noche (8pm-4am),2.8,854,834,20,Madurez Prematura
+V-11404,2025-05-15,Carepa,La Bonita Carepa,Rutas del Darién,Mañana (4am-12pm),1.7,817,801,16,Madurez Prematura
+V-11405,2025-05-22,Carepa,Villa Verde Carepa,Rutas del Darién,Noche (8pm-4am),2.7,819,801,18,Madurez Prematura
+V-11406,2025-02-20,Carepa,Villa Verde Carepa,TransUrabá,Noche (8pm-4am),1.1,878,869,9,Madurez Prematura
+V-11407,2025-04-05,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),2.6,845,800,45,Calibre No Conforme
+V-11408,2025-05-21,Turbo,Villa Verde Turbo,Rutas del Darién,Mañana (4am-12pm),4.9,831,769,62,Calibre No Conforme
+V-11409,2025-04-07,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Noche (8pm-4am),1.9,952,923,29,Daño Mecánico
+V-11410,2025-05-07,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.1,881,826,55,Calibre No Conforme
+V-11411,2025-03-23,Chigorodó,La Bonita Chigorodó,TransUrabá,Noche (8pm-4am),3.3,1001,962,39,Cicatriz/Mancha
+V-11412,2025-02-28,Carepa,El Tesoro Carepa,Carga Agrícola S.A.,Mañana (4am-12pm),2.8,917,891,26,Daño Mecánico
+V-11413,2025-05-08,Carepa,El Bananal Carepa,Rutas del Darién,Mañana (4am-12pm),3.0,952,936,16,Daño Mecánico
+V-11414,2025-04-08,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.8,970,909,61,Cicatriz/Mancha
+V-11415,2025-02-03,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),2.7,997,936,61,Madurez Prematura
+V-11416,2025-05-12,Apartadó,El Bananal Apartadó,Rutas del Darién,Tarde (12pm-8pm),1.4,815,771,44,Cicatriz/Mancha
+V-11417,2025-06-15,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),1.4,863,840,23,Cicatriz/Mancha
+V-11418,2025-03-14,Chigorodó,El Tesoro Chigorodó,TransUrabá,Noche (8pm-4am),4.0,1094,1075,19,Calibre No Conforme
+V-11419,2025-06-04,Apartadó,La Esperanza Apartadó,TransUrabá,Tarde (12pm-8pm),,948,886,62,Daño Mecánico
+V-11420,2025-05-14,Chigorodó,La Esperanza Chigorodó,Rutas del Darién,Mañana (4am-12pm),4.2,957,889,68,Calibre No Conforme
+V-11421,2025-03-16,Turbo,La Esperanza Turbo,TransUrabá,Tarde (12pm-8pm),5.3,1073,977,96,Madurez Prematura
+V-11422,2025-06-02,Carepa,La Esperanza Carepa,Logística Bananera,Noche (8pm-4am),2.5,959,948,11,Daño Mecánico
+V-11423,2025-03-24,Carepa,Villa Verde Carepa,Logística Bananera,Noche (8pm-4am),2.0,812,783,29,Madurez Prematura
+V-11424,2025-01-16,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Noche (8pm-4am),1.9,1092,1071,21,Calibre No Conforme
+V-11425,2025-02-04,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,849,835,14,Cicatriz/Mancha
+V-11426,2025-02-09,Apartadó,El Tesoro Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),1.5,811,787,24,Daño Mecánico
+V-11427,2025-02-21,Carepa,El Tesoro Carepa,TransUrabá,Noche (8pm-4am),2.2,1049,1019,30,Madurez Prematura
+V-11428,2025-04-01,Chigorodó,El Bananal Chigorodó,Rutas del Darién,Mañana (4am-12pm),2.6,843,823,20,Cicatriz/Mancha
+V-11429,2025-03-26,Apartadó,San José Apartadó,TransUrabá,Noche (8pm-4am),2.2,806,791,15,Madurez Prematura
+V-11430,2025-03-17,Chigorodó,El Tesoro Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.3,864,810,54,Madurez Prematura
+V-11431,2025-05-21,Apartadó,El Tesoro Apartadó,TransUrabá,Mañana (4am-12pm),2.8,1071,1040,31,Cicatriz/Mancha
+V-11432,2025-06-19,Apartadó,Villa Verde Apartadó,Logística Bananera,Noche (8pm-4am),,832,804,28,Daño Mecánico
+V-11433,2025-04-22,Turbo,El Tesoro Turbo,Carga Agrícola S.A.,Noche (8pm-4am),4.6,1020,942,78,Madurez Prematura
+V-11434,2025-06-25,Turbo,El Tesoro Turbo,Logística Bananera,Mañana (4am-12pm),5.8,973,890,83,Calibre No Conforme
+V-11435,2025-05-04,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Tarde (12pm-8pm),2.6,1029,965,64,Cicatriz/Mancha
+V-11436,2025-04-30,carepa ,El Tesoro Carepa,TransUrabá,Mañana (4am-12pm),2.9,967,929,38,Daño Mecánico
+V-11437,2025-05-28,Carepa,La Bonita Carepa,Rutas del Darién,Mañana (4am-12pm),1.7,1023,989,34,Cicatriz/Mancha
+V-11438,2025-04-22,Turbo,La Bonita Turbo,Logística Bananera,Noche (8pm-4am),5.1,1050,977,73,Cicatriz/Mancha
+V-11439,2025-02-19,Turbo,El Bananal Turbo,TransUrabá,Mañana (4am-12pm),3.8,884,861,23,Calibre No Conforme
+V-11440,2025-03-20,Apartadó,El Tesoro Apartadó,Rutas del Darién,Mañana (4am-12pm),2.3,833,817,16,Daño Mecánico
+V-11441,2025-01-15,Carepa,Villa Verde Carepa,Logística Bananera,Mañana (4am-12pm),2.4,842,819,23,Madurez Prematura
+V-11442,2025-01-14,Chigorodó,La Bonita Chigorodó,Rutas del Darién,Tarde (12pm-8pm),3.3,971,921,50,Calibre No Conforme
+V-11443,2025-06-23,Apartadó,Villa Verde Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.9,924,897,27,Daño Mecánico
+V-11444,2025-02-20,Turbo,La Bonita Turbo,Logística Bananera,Noche (8pm-4am),4.8,1031,944,87,Madurez Prematura
+V-11445,2025-05-22,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),5.0,965,900,65,Madurez Prematura
+V-11446,2025-04-07,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),3.9,916,890,26,Cicatriz/Mancha
+V-11447,2025-02-19,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),3.0,867,849,18,Calibre No Conforme
+V-11448,2025-04-17,Turbo,La Bonita Turbo,Carga Agrícola S.A.,Tarde (12pm-8pm),6.1,1056,949,107,Madurez Prematura
+V-11449,2025-02-05,Turbo,La Bonita Turbo,TransUrabá,Noche (8pm-4am),5.0,810,753,57,Cicatriz/Mancha
+V-11450,2025-02-19,Turbo,La Esperanza Turbo,Logística Bananera,Tarde (12pm-8pm),6.1,1016,920,96,Madurez Prematura
+V-11451,2025-03-05,Turbo,La Bonita Turbo,TransUrabá,Tarde (12pm-8pm),5.8,1025,921,104,Madurez Prematura
+V-11452,2025-03-06,Chigorodó,La Bonita Chigorodó,Carga Agrícola S.A.,Mañana (4am-12pm),,1097,1055,42,Calibre No Conforme
+V-11453,2025-02-26,Apartadó,La Esperanza Apartadó,Carga Agrícola S.A.,Tarde (12pm-8pm),1.4,880,821,59,Calibre No Conforme
+V-11454,2025-06-08,Chigorodó,El Tesoro Chigorodó,Carga Agrícola S.A.,Tarde (12pm-8pm),4.0,1007,951,56,Cicatriz/Mancha
+V-11455,2025-03-04,Carepa,La Bonita Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.1,950,889,61,Madurez Prematura
+V-11456,2025-06-01,Apartadó,La Bonita Apartadó,Logística Bananera,Mañana (4am-12pm),2.8,1018,1000,18,Daño Mecánico
+V-11457,2025-02-23,Turbo,El Bananal Turbo,Logística Bananera,Mañana (4am-12pm),4.3,1002,934,68,Daño Mecánico
+V-11458,2025-06-05,Apartadó,Villa Verde Apartadó,TransUrabá,Mañana (4am-12pm),2.1,949,926,23,Calibre No Conforme
+V-11459,2025-04-03,Chigorodó,Villa Verde Chigorodó,Logística Bananera,Tarde (12pm-8pm),4.3,950,862,88,Madurez Prematura
+V-11460,2025-06-07,Chigorodó,El Bananal Chigorodó,Logística Bananera,Mañana (4am-12pm),3.1,1005,982,23,Calibre No Conforme
+V-11461,2025-01-31,Apartadó,Villa Verde Apartadó,TransUrabá,Mañana (4am-12pm),2.8,849,829,20,Calibre No Conforme
+V-11462,2025-03-03,Apartadó,El Bananal Apartadó,Rutas del Darién,Mañana (4am-12pm),2.7,852,840,12,Madurez Prematura
+V-11463,2025-02-06,Chigorodó,La Esperanza Chigorodó,Carga Agrícola S.A.,Noche (8pm-4am),4.8,1045,963,82,Calibre No Conforme
+V-11464,2025-01-16,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.6,894,859,35,Daño Mecánico
+V-11465,2025-05-10,Apartadó,El Bananal Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.8,1060,1034,26,Cicatriz/Mancha
+V-11466,2025-04-13,Carepa,El Tesoro Carepa,Logística Bananera,Noche (8pm-4am),2.5,880,850,30,Madurez Prematura
+V-11467,2025-04-08,Apartadó,La Bonita Apartadó,Logística Bananera,Mañana (4am-12pm),2.9,1032,1002,30,Daño Mecánico
+V-11468,2025-03-26,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),2.5,883,837,46,Daño Mecánico
+V-11469,2025-04-13,Carepa,Villa Verde Carepa,Carga Agrícola S.A.,Tarde (12pm-8pm),1.5,960,902,58,Madurez Prematura
+V-11470,2025-03-18,Chigorodó,El Tesoro Chigorodó,TransUrabá,Noche (8pm-4am),,825,759,66,Cicatriz/Mancha
+V-11471,2025-03-03,Apartado,El Bananal Apartadó,TransUrabá,Mañana (4am-12pm),2.0,1035,1009,26,Madurez Prematura
+V-11472,2025-02-01,Chigorodó,Villa Verde Chigorodó,TransUrabá,Noche (8pm-4am),3.9,985,959,26,Madurez Prematura
+V-11473,2025-03-07,Carepa,San José Carepa,Carga Agrícola S.A.,Noche (8pm-4am),2.8,1057,1040,17,Madurez Prematura
+V-11474,2025-03-19,Apartadó,La Bonita Apartadó,Carga Agrícola S.A.,Mañana (4am-12pm),2.5,1021,984,37,Cicatriz/Mancha
+V-11475,2025-06-23,Chigorodó,El Bananal Chigorodó,Logística Bananera,Tarde (12pm-8pm),3.9,1056,1012,44,Calibre No Conforme
+V-11476,2025-01-18,Chigorodó,El Tesoro Chigorodó,Logística Bananera,Mañana (4am-12pm),2.6,1048,1011,37,Cicatriz/Mancha
+V-11477,2025-05-24,carepa ,El Bananal Carepa,Logística Bananera,Tarde (12pm-8pm),1.9,1067,1024,43,Daño Mecánico
+V-11478,2025-06-30,Chigorodó,La Bonita Chigorodó,Logística Bananera,Mañana (4am-12pm),4.0,864,855,9,Madurez Prematura
+V-11479,2025-05-31,Carepa,La Bonita Carepa,Logística Bananera,Tarde (12pm-8pm),2.8,850,807,43,Daño Mecánico
+V-11480,2025-01-13,Carepa,La Esperanza Carepa,Logística Bananera,Noche (8pm-4am),2.0,805,796,9,Cicatriz/Mancha
+V-11481,2025-01-18,Carepa,San José Carepa,TransUrabá,Tarde (12pm-8pm),2.5,992,943,49,Daño Mecánico
+V-11482,2025-05-22,Carepa,El Tesoro Carepa,Rutas del Darién,Mañana (4am-12pm),1.4,889,877,12,Calibre No Conforme
+V-11483,2025-04-22,Apartadó,San José Apartadó,Rutas del Darién,Mañana (4am-12pm),1.7,812,783,29,Cicatriz/Mancha
+V-11484,2025-01-09,Chigorodó,La Esperanza Chigorodó,Logística Bananera,Noche (8pm-4am),4.9,869,817,52,Daño Mecánico
+V-11485,2025-03-16,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),6.2,889,796,93,Madurez Prematura
+V-11486,2025-04-13,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),3.8,877,848,29,Daño Mecánico
+V-11487,2025-03-28,Turbo,El Bananal Turbo,TransUrabá,Tarde (12pm-8pm),4.1,984,896,88,Madurez Prematura
+V-11488,2025-03-25,Chigorodó,Villa Verde Chigorodó,Rutas del Darién,Noche (8pm-4am),3.6,1038,1011,27,Calibre No Conforme
+V-11489,2025-06-30,Chigorodó,El Bananal Chigorodó,Logística Bananera,Noche (8pm-4am),3.3,859,831,28,Madurez Prematura
+V-11490,2025-04-17,Turbo,El Tesoro Turbo,TransUrabá,Tarde (12pm-8pm),4.2,1097,984,113,Madurez Prematura
+V-11491,2025-02-06,Apartadó,El Bananal Apartadó,TransUrabá,Tarde (12pm-8pm),,995,950,45,Calibre No Conforme
+V-11492,2025-01-11,Carepa,San José Carepa,Rutas del Darién,Noche (8pm-4am),1.2,963,927,36,Calibre No Conforme
+V-11493,2025-05-24,Carepa,El Bananal Carepa,Logística Bananera,Noche (8pm-4am),2.8,1044,1015,29,Calibre No Conforme
+V-11494,2025-03-10,Turbo,La Bonita Turbo,TransUrabá,Mañana (4am-12pm),5.8,814,757,57,Daño Mecánico
+V-11495,2025-03-07,Apartadó,El Bananal Apartadó,Logística Bananera,Mañana (4am-12pm),2.1,921,912,9,Madurez Prematura
+V-11496,2025-01-08,Turbo,El Bananal Turbo,Rutas del Darién,Mañana (4am-12pm),5.1,1026,936,90,Cicatriz/Mancha
+V-11497,2025-02-27,Carepa,Villa Verde Carepa,TransUrabá,Tarde (12pm-8pm),2.7,804,751,53,Daño Mecánico
+V-11498,2025-06-27,Turbo,San José Turbo,Logística Bananera,Mañana (4am-12pm),5.2,895,837,58,Daño Mecánico
+V-11499,2025-03-07,Turbo,El Tesoro Turbo,Logística Bananera,Noche (8pm-4am),4.2,950,890,60,Calibre No Conforme
