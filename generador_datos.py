@@ -3,11 +3,12 @@ import numpy as np
 import random
 from datetime import datetime, timedelta
 
-# 1. Configuración inicial
-np.random.seed(42) # Para que los datos sean reproducibles
+#Los datos generados son 100% simulados y no son datos reales. 
+# Configuración inicial
+np.random.seed(42)
 num_registros = 1500
 
-# Catálogos (Tablas de Dimensiones simuladas)
+# Tablas de Dimensiones simuladas
 municipios = ['Carepa', 'Apartadó', 'Turbo', 'Chigorodó']
 fincas_base = ['La Esperanza', 'El Bananal', 'Villa Verde', 'San José', 'La Bonita', 'El Tesoro']
 empresas_transporte = ['TransUrabá', 'Logística Bananera', 'Rutas del Darién', 'Carga Agrícola S.A.']
@@ -17,7 +18,7 @@ turnos = ['Mañana (4am-12pm)', 'Tarde (12pm-8pm)', 'Noche (8pm-4am)']
 datos = []
 fecha_inicio = datetime(2025, 1, 1)
 
-# 2. Generación iterativa de datos con lógica de negocio
+# Generación iterativa de datos con lógica de negocio
 for i in range(num_registros):
     # Datos básicos
     id_viaje = f"V-{10000 + i}"
@@ -27,7 +28,7 @@ for i in range(num_registros):
     transporte = random.choice(empresas_transporte)
     turno = random.choice(turnos)
     
-    # Cajas despachadas por camión (entre 800 y 1100)
+    # Cajas despachadas por camión
     cajas_enviadas = random.randint(800, 1100)
     
     # Lógica de tránsito: Turbo y Chigorodó están más lejos del puerto (simulado)
@@ -65,7 +66,7 @@ for i in range(num_registros):
         cajas_aprobadas, cajas_rechazadas, motivo
     ])
 
-# 3. Crear el DataFrame
+# Crear el DataFrame
 columnas = [
     'id_viaje', 'fecha_envio', 'municipio_origen', 'finca_origen', 
     'empresa_transporte', 'turno', 'horas_transito', 'cajas_enviadas', 
@@ -73,7 +74,7 @@ columnas = [
 ]
 df_exportaciones = pd.DataFrame(datos, columns=columnas)
 
-# 4. Inyectar "Datos Sucios" para tu práctica de limpieza
+# Inyectar "Datos Sucios" 
 # A) Dejar algunas horas de tránsito en blanco (NaN)
 indices_nulos = np.random.choice(df_exportaciones.index, size=45, replace=False)
 df_exportaciones.loc[indices_nulos, 'horas_transito'] = np.nan
@@ -85,7 +86,7 @@ for idx in indices_typos:
     mun_actual = df_exportaciones.loc[idx, 'municipio_origen']
     df_exportaciones.loc[idx, 'municipio_origen'] = typos_dict.get(mun_actual, mun_actual)
 
-# 5. Exportar a CSV
+# Exportar a CSV
 nombre_archivo = 'logistica_banano_uraba.csv'
 df_exportaciones.to_csv(nombre_archivo, index=False, encoding='utf-8')
 
