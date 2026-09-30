@@ -2,7 +2,8 @@
 
 # Dashboard Geeradp
 <img width="1051" height="746" alt="image" src="https://github.com/user-attachments/assets/29e58449-9800-4028-bd87-164049daf67b" />
-ras modelar los datos en Power BI, se identificó que los despachos realizados en el turno de la tarde desde Turbo presentan una merma superior al 8%, sugiriendo una reestructuración de los horarios logísticos hacia la madrugada para mitigar las pérdidas económicas
+
+tras modelar los datos en Power BI, se identificó que los despachos realizados en el turno de la tarde desde Turbo presentan una merma superior al 8%, sugiriendo una reestructuración de los horarios logísticos hacia la madrugada para mitigar las pérdidas económicas
 
 
 ## Resumen del Proyecto
