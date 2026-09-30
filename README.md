@@ -1,6 +1,7 @@
 # Análisis Logístico y Reducción de Merma en Exportación de Banano (Urabá)
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+<img width="1051" height="746" alt="image" src="https://github.com/user-attachments/assets/29e58449-9800-4028-bd87-164049daf67b" />
+
 
 ## Resumen del Proyecto
 Este proyecto de análisis de datos busca identificar los cuellos de botella operativos que aumentan el porcentaje de cajas de banano rechazadas en los puertos de Urabá (Carepa, Turbo, Chigorodó, Apartadó). A través de un proceso ETL y modelado de datos, se detectaron los factores que generan mayores pérdidas económicas por madurez prematura.
