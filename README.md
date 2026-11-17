@@ -84,6 +84,54 @@ El proyecto permite explorar diferentes indicadores, entre ellos:
 
 Los resultados deben interpretarse teniendo en cuenta que los datos son simulados.
 
+## Resultados del análisis exploratorio
+
+El análisis se realizó sobre un conjunto de datos sintético de 1.500 viajes de transporte de banano.
+
+### 1. Rechazo por municipio
+
+Se identificaron diferencias en las tasas de rechazo entre los municipios analizados:
+
+| Municipio | Tasa de rechazo |
+|---|---:|
+| Turbo | 7.50% |
+| Chigorodó | 5.22% |
+| Carepa | 3.43% |
+| Apartadó | 3.39% |
+
+Turbo presentó la mayor tasa de rechazo, por lo que representa un punto de interés para futuras investigaciones.
+
+### 2. Rechazo por turno
+
+| Turno | Tasa de rechazo |
+|---|---:|
+| Tarde | 6.92% |
+| Noche | 4.02% |
+| Mañana | 3.98% |
+
+El turno de la tarde presentó una tasa de rechazo superior a los otros dos turnos.
+
+### 3. Rechazo según tiempo de tránsito
+
+| Tiempo de tránsito | Tasa de rechazo |
+|---|---:|
+| Hasta 2 horas | 3.46% |
+| Más de 2 a 4 horas | 3.32% |
+| Más de 4 a 6 horas | 8.31% |
+| Más de 6 horas | 8.60% |
+
+Los viajes con tiempos de tránsito superiores a cuatro horas presentaron tasas de rechazo más altas en el conjunto de datos.
+
+### 4. Calidad de los datos
+
+Se identificaron 45 registros sin información de horas de tránsito, equivalentes al 3% del conjunto de datos.
+
+La tasa de rechazo fue de 4.92% en los registros completos y de 4.82% en los registros sin información de tránsito.
+
+Los valores faltantes se conservaron para evitar introducir información no disponible.
+
+**Nota:** Estos resultados corresponden a datos sintéticos y tienen fines educativos. Las relaciones observadas no demuestran causalidad ni representan necesariamente el comportamiento real de las operaciones bananeras.
+
 ## Mejoras futuras
 
 - Ampliar el análisis exploratorio de datos (EDA).
