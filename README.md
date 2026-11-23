@@ -3,7 +3,6 @@
 
 ## Dashboard en Power BI
 
-![Dashboard de análisis logístico](https://github.com/user-attachments/assets/29e58449-9800-4028-bd87-164049daf67b)
 
 ## Descripción del proyecto
 
