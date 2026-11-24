@@ -1,155 +1,176 @@
 
-# Análisis Logístico y Reducción de Merma en la Exportación de Banano — Urabá
-
-## Dashboard en Power BI
-
+# Análisis logístico y reducción de merma en la exportación de banano
 
 ## Descripción del proyecto
 
-Este proyecto busca analizar el comportamiento de las operaciones logísticas relacionadas con la exportación de banano en la región de Urabá, Antioquia, Colombia.
+Proyecto de análisis de datos enfocado en explorar el comportamiento de las operaciones logísticas relacionadas con el transporte de banano desde diferentes municipios y fincas de Urabá.
 
-El objetivo es identificar patrones asociados al rechazo de cajas de banano y explorar cómo variables como el municipio de origen, el turno de despacho y el tiempo de tránsito pueden relacionarse con los niveles de merma.
+El propósito es analizar información sobre los viajes, las cajas transportadas, las cajas aprobadas y rechazadas, los tiempos de tránsito y los factores asociados al rechazo de la mercancía.
 
-**Nota:** El conjunto de datos utilizado es sintético y fue generado mediante Python con fines educativos y de demostración. Los resultados no representan cifras reales de empresas o exportaciones de la región.
+A través de la preparación de datos y la construcción de un dashboard interactivo en Power BI, se busca identificar patrones operativos, visualizar indicadores clave y facilitar la interpretación de la información logística.
 
-## Objetivos
-
-- Explorar los factores asociados al rechazo de cajas de banano.
-- Identificar diferencias entre municipios y turnos de despacho.
-- Analizar la relación entre los tiempos de tránsito y los porcentajes de rechazo.
-- Construir indicadores que faciliten la interpretación de la operación logística.
-- Presentar los resultados mediante un dashboard interactivo en Power BI.
-
-## Herramientas utilizadas
-
-| Herramienta | Aplicación |
-|---|---|
-| Python | Generación y procesamiento de datos |
-| Pandas | Limpieza y transformación de datos |
-| NumPy | Generación de datos sintéticos |
-| Jupyter Notebook | Exploración y documentación del proceso |
-| Power BI | Modelado y visualización de información |
-| DAX | Construcción de indicadores y métricas |
-
-## Datos utilizados
-
-Se generó un conjunto de datos sintético de 1.500 registros que representa operaciones logísticas de banano en cuatro municipios:
-
-- Carepa
-- Apartadó
-- Turbo
-- Chigorodó
-
-Entre las variables disponibles se encuentran:
-
-- Municipio de origen.
-- Tiempo de tránsito.
-- Turno de despacho.
-- Cantidad de cajas.
-- Cantidad de cajas rechazadas.
-- Motivo del rechazo.
-
-## Metodología
-
-El proyecto se desarrolla mediante las siguientes etapas:
-
-1. **Generación de datos:** creación de registros sintéticos mediante Python.
-2. **Inspección inicial:** revisión de la estructura, los valores nulos y las inconsistencias.
-3. **Limpieza de datos:** corrección de errores tipográficos y tratamiento de valores faltantes mediante Pandas.
-4. **Visualización:** utilización de Power BI para explorar los indicadores y patrones logísticos.
-
-## Estructura del repositorio
-
-```text
-analisis-logistica-banano/
-│
-├── Dashboard.pbix
-├── README.md
-├── generador_datos.py
-├── limpieza_datos.ipynb
-├── logistica_banano_uraba.csv
-└── logistica_limpia.csv
-```
-
-## Indicadores de análisis
-
-El proyecto permite explorar diferentes indicadores, entre ellos:
-
-- Porcentaje de rechazo de cajas.
-- Cantidad de cajas transportadas y rechazadas.
-- Comportamiento del rechazo por municipio.
-- Distribución de los despachos por turno.
-- Relación entre el tiempo de tránsito y el rechazo.
-
-Los resultados deben interpretarse teniendo en cuenta que los datos son simulados.
-
-## Resultados del análisis exploratorio
-
-El análisis se realizó sobre un conjunto de datos sintético de 1.500 viajes de transporte de banano.
-
-### 1. Rechazo por municipio
-
-Se identificaron diferencias en las tasas de rechazo entre los municipios analizados:
-
-| Municipio | Tasa de rechazo |
-|---|---:|
-| Turbo | 7.50% |
-| Chigorodó | 5.22% |
-| Carepa | 3.43% |
-| Apartadó | 3.39% |
-
-Turbo presentó la mayor tasa de rechazo, por lo que representa un punto de interés para futuras investigaciones.
-
-### 2. Rechazo por turno
-
-| Turno | Tasa de rechazo |
-|---|---:|
-| Tarde | 6.92% |
-| Noche | 4.02% |
-| Mañana | 3.98% |
-
-El turno de la tarde presentó una tasa de rechazo superior a los otros dos turnos.
-
-### 3. Rechazo según tiempo de tránsito
-
-| Tiempo de tránsito | Tasa de rechazo |
-|---|---:|
-| Hasta 2 horas | 3.46% |
-| Más de 2 a 4 horas | 3.32% |
-| Más de 4 a 6 horas | 8.31% |
-| Más de 6 horas | 8.60% |
-
-Los viajes con tiempos de tránsito superiores a cuatro horas presentaron tasas de rechazo más altas en el conjunto de datos.
-
-### 4. Calidad de los datos
-
-Se identificaron 45 registros sin información de horas de tránsito, equivalentes al 3% del conjunto de datos.
-
-La tasa de rechazo fue de 4.92% en los registros completos y de 4.82% en los registros sin información de tránsito.
-
-Los valores faltantes se conservaron para evitar introducir información no disponible.
-
-**Nota:** Estos resultados corresponden a datos sintéticos y tienen fines educativos. Las relaciones observadas no demuestran causalidad ni representan necesariamente el comportamiento real de las operaciones bananeras.
-
-## Mejoras futuras
-
-- Ampliar el análisis exploratorio de datos (EDA).
-- Incorporar consultas SQL para análisis y segmentación.
-- Evaluar diferentes estrategias de tratamiento de valores faltantes.
-- Analizar el impacto económico de las cajas rechazadas.
-- Mejorar la reproducibilidad del proceso de generación de datos.
-- Validar hipótesis mediante análisis estadístico.
-
-## Cómo explorar el proyecto
-
-1. Consulta `logistica_banano_uraba.csv` para revisar los datos originales.
-2. Revisa `generador_datos.py` para conocer cómo se crearon los registros.
-3. Abre `limpieza_datos.ipynb` para consultar el proceso de limpieza.
-4. Consulta `logistica_limpia.csv` para revisar los datos procesados.
-5. Abre `Dashboard.pbix` con Power BI Desktop para explorar las visualizaciones.
+> **Nota:** Este proyecto utiliza datos sintéticos con fines académicos y de portafolio. Los resultados no representan cifras reales de una empresa ni deben interpretarse como evidencia del comportamiento de la industria bananera.
 
 ---
 
-**Proyecto de portafolio — Data Analytics**
+## Objetivos
 
-Enfoque: análisis de datos, limpieza, exploración y visualización.
+- Analizar el comportamiento de los viajes y las operaciones de transporte.
+- Medir la proporción de cajas aprobadas y rechazadas.
+- Explorar la relación entre los tiempos de tránsito y los niveles de rechazo.
+- Comparar el comportamiento de las operaciones según municipio, turno y empresa transportadora.
+- Identificar los principales motivos de rechazo.
+- Construir un dashboard que facilite la consulta y el análisis de los indicadores logísticos.
+
+---
+
+## Tecnologías y herramientas
+
+- **Microsoft Power BI:** construcción del dashboard, visualización e interacción con los datos.
+- **Power Query:** revisión, limpieza y transformación de los datos.
+- **DAX:** creación de medidas e indicadores para el análisis.
+- **CSV:** fuente de datos utilizada en el proyecto.
+- **Git y GitHub:** control de versiones y documentación del proyecto.
+
+---
+
+## Metodología
+
+El desarrollo del proyecto se organizó en las siguientes etapas:
+
+1. **Exploración de datos:** revisión de la estructura, los campos y los registros disponibles.
+2. **Preparación y limpieza:** identificación de valores faltantes y revisión de la calidad de los datos mediante Power Query.
+3. **Modelado y medidas:** creación de indicadores para calcular viajes, cajas transportadas, cajas rechazadas y tasa de rechazo.
+4. **Análisis exploratorio:** comparación de resultados por municipio, turno, empresa transportadora, motivo de rechazo y rango de tránsito.
+5. **Visualización:** diseño de un dashboard interactivo en Power BI dividido en tres páginas.
+
+---
+
+## Indicadores principales
+
+| Indicador | Resultado |
+|---|---:|
+| Total de viajes | 1.500 |
+| Cajas enviadas | 1.421.150 |
+| Cajas aprobadas | 1.351.222 |
+| Cajas rechazadas | 69.928 |
+| Tasa general de rechazo | 4,92 % |
+
+---
+
+## Dashboard de Power BI
+
+El informe está organizado en tres páginas para facilitar el análisis desde una perspectiva general hasta el detalle de cada operación.
+
+### 1. Resumen ejecutivo
+
+Presenta los principales indicadores logísticos y permite observar el comportamiento general de los envíos, la tasa de rechazo por municipio y los resultados según el rango de tiempo de tránsito.
+
+![Resumen ejecutivo](images/dashboard-resumen.jpg)
+
+### 2. Análisis operacional
+
+Permite profundizar en el comportamiento de las operaciones mediante comparaciones por turno, empresa transportadora, motivo de rechazo y municipio de origen.
+
+![Análisis operacional](images/dashboard-operacional.jpg)
+
+### 3. Detalle y trazabilidad de envíos
+
+Incluye una tabla de consulta individual de los viajes, con información sobre fechas, municipios, fincas, empresas transportadoras, tiempos de tránsito, cantidades enviadas y motivos de rechazo.
+
+Cuenta con filtros para facilitar la búsqueda y segmentación de las operaciones.
+
+![Detalle y trazabilidad](images/dashboard-detalle.jpg)
+
+---
+
+## Hallazgos del análisis exploratorio
+
+A partir de los datos analizados se identificaron los siguientes patrones:
+
+### 1. Comportamiento general del rechazo
+
+De las 1.421.150 cajas enviadas, 69.928 fueron rechazadas, lo que representa una tasa general de rechazo del 4,92 %.
+
+Este indicador permite establecer una referencia general para comparar los diferentes segmentos de las operaciones.
+
+### 2. Tiempo de tránsito y tasa de rechazo
+
+Se observó una diferencia en las tasas de rechazo según el rango de tiempo de tránsito:
+
+| Rango de tránsito | Tasa de rechazo |
+|---|---:|
+| Hasta 2 horas | 3,46 % |
+| Más de 2 a 4 horas | 3,32 % |
+| Más de 4 a 6 horas | 8,31 % |
+| Más de 6 horas | 8,60 % |
+
+Los registros con tiempos de tránsito superiores a cuatro horas presentan tasas de rechazo más elevadas dentro del conjunto analizado.
+
+Este patrón representa una asociación observada en los datos sintéticos y no demuestra una relación causal.
+
+### 3. Calidad y completitud de los datos
+
+Durante la revisión se identificaron 45 registros sin información en el campo `horas_transito`, equivalentes al 3 % del conjunto de datos.
+
+Al comparar los registros:
+
+- Registros con tiempo de tránsito disponible: tasa de rechazo del 4,92 %.
+- Registros sin tiempo de tránsito disponible: tasa de rechazo del 4,82 %.
+
+La diferencia es pequeña en este conjunto, pero evidencia la importancia de revisar la completitud de los campos antes de realizar análisis por tiempo de tránsito.
+
+Los valores faltantes se conservaron como nulos y no se reemplazaron por cero.
+
+### 4. Comparación de variables operativas
+
+El dashboard permite explorar las diferencias en los rechazos según municipio de origen, turno operativo, empresa transportadora y motivo principal de rechazo.
+
+Estas dimensiones facilitan la identificación de segmentos que merecen una revisión más detallada, sin asumir que una variable sea por sí sola la causa de los rechazos.
+
+---
+
+## Estructura del proyecto
+
+```text
+proyecto-logistica-banano/
+│
+├── images/
+│   ├── dashboard-resumen.jpg
+│   ├── dashboard-operacional.jpg
+│   └── dashboard-detalle.jpg
+│
+├── logistica_limpia.csv
+│
+└── README.md
+```
+
+---
+
+## Conclusiones
+
+El ejercicio permitió construir un proceso de análisis que parte de la preparación de datos y termina en una herramienta de visualización interactiva.
+
+Entre los resultados más relevantes se encuentra la identificación de diferencias en las tasas de rechazo según los rangos de tránsito, así como la detección de registros con información faltante.
+
+El proyecto demuestra la aplicación de herramientas de análisis y visualización para transformar datos tabulares en indicadores y elementos de consulta que facilitan la interpretación de procesos logísticos.
+
+---
+
+## Mejoras futuras
+
+- Incorporar nuevos indicadores de eficiencia logística.
+- Profundizar en el análisis de las diferencias entre municipios y empresas transportadoras.
+- Desarrollar consultas SQL para complementar el proceso de análisis.
+- Automatizar la actualización y preparación de los datos.
+- Ampliar el análisis con información real y validada del sector logístico, cuando esté disponible.
+
+---
+
+## Autor
+
+**Juan David Durango Giraldo**
+
+Ingeniería de Sistemas | Análisis de Datos | Business Intelligence
+
+- GitHub: [@D4veDurango](https://github.com/D4veDurango)
