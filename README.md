@@ -133,15 +133,18 @@ Estas dimensiones facilitan la identificación de segmentos que merecen una revi
 ## Estructura del proyecto
 
 ```text
-proyecto-logistica-banano/
+analisis-logistica-banano/
 │
 ├── images/
-│   ├── dashboard-resumen.jpg
+│   ├── dashboard-detalle.jpg
 │   ├── dashboard-operacional.jpg
-│   └── dashboard-detalle.jpg
+│   └── dashboard-resumen.jpg
 │
+├── Dashboard.pbix
+├── generador_datos.py
+├── limpieza_datos.ipynb
+├── logistica_banano_uraba.csv
 ├── logistica_limpia.csv
-│
 └── README.md
 ```
 
